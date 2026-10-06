@@ -161,25 +161,10 @@ The package currently contains only a placeholder `test` script; unit, integrati
 | [TASKS.md](./docs/TASKS.md) | Structured implementation tasks. |
 | [ARCHITECTURE.md](./docs/ARCHITECTURE.md) | System architecture and technical structure. |
 | [NAVIGATIONMAP.md](./docs/NAVIGATIONMAP.md) | Navigation structure and route flows. |
-| [DESIGNSYSTEM.md](./docs/DESIGNSYSTEM.md) | Visual design system and reusable UI components. |
 | [USERJOURNEY.md](./docs/USERJOURNEY.md) | Users, journeys, and UX flows. |
 | [SECURITY.md](./docs/SECURITY.md) | Security architecture and controls. |
 | [API.md](./docs/API.md) | API contracts and service communication. |
 | [LICENSE](LICENSE) | Project license. |
-
-## Screenshots
-
-### Mobile
-
-![Mobile screenshot](docs/screenshots/mobile.png)
-
-### Desktop
-
-![Desktop screenshot](docs/screenshots/desktop.png)
-
-## Demo
-
-[Watch the demo video](<demo-url>)
 
 ## Development
 
