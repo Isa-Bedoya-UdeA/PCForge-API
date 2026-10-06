@@ -1,0 +1,39 @@
+{
+  "opendb_id": "bdaac320-4c94-4133-8ae8-3a4978f16db0",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 200,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 8,
+    "sata": 10,
+    "molex_4_pin": 5,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Super Flower Leadex Gold 850W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Super Flower",
+    "part_numbers": ["SF-850F14MG"],
+    "series": "Leadex",
+    "variant": "850W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SF-850F14MG",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

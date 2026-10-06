@@ -1,0 +1,28 @@
+{
+  "opendb_id": "6361ec72-953a-4a1c-9a98-9c5959e654ea",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "ADATA ATOM 30 1TB M.2-2280 SSD PCIe 3.0 x4 NVMe",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AATO-30-1TCI"],
+    "series": "ATOM",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AATO-30-1TCI",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

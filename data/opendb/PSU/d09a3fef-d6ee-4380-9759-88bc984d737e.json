@@ -1,0 +1,59 @@
+{
+  "opendb_id": "d09a3fef-d6ee-4380-9759-88bc984d737e",
+  "wattage": 1200,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 189,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 10,
+    "sata": 14,
+    "molex_4_pin": 5,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "SeaSonic Platinum 1200W 80+ Platinum Certified Fully Modular",
+    "manufacturer": "SeaSonic",
+    "part_numbers": [
+      "Platinum-1200(SS-120",
+      "Platinum-1200(SS-1200XP3)",
+      "SS-1200XP3",
+      "PLATINUM-1200"
+    ],
+    "series": "Platinum",
+    "variant": "1200W Platinum"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PLATINUM-1200",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "Platinum-1200(SS-120",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "Platinum-1200(SS-1200XP3)",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SS-1200XP3",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

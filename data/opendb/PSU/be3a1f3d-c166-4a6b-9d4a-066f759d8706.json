@@ -1,0 +1,39 @@
+{
+  "opendb_id": "be3a1f3d-c166-4a6b-9d4a-066f759d8706",
+  "wattage": 300,
+  "form_factor": "SFX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 100,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 1,
+    "sata": 4,
+    "molex_4_pin": 1,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "be quiet! POWER 2 Black SFX 300W Non-Modular 80+ Bronze Certified",
+    "manufacturer": "be quiet!",
+    "part_numbers": ["BN226"],
+    "series": "POWER",
+    "variant": "300W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BN226",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

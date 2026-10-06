@@ -1,0 +1,40 @@
+{
+  "opendb_id": "8582069f-b1d5-4f27-aa8e-f0e50bc032eb",
+  "speed": 4800,
+  "ram_type": "DDR5",
+  "profile_support": ["XMP"],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK"],
+  "lighting": [],
+  "cas_latency": 40,
+  "timings": "40-40-40-77",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "metadata": {
+    "name": "Corsair Dominator Platinum RGB Black DDR5-4800 CL40 32GB (2x16GB)",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CMT32GX5M2A4800C40"],
+    "series": "Dominator Platinum",
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CMT32GX5M2A4800C40",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

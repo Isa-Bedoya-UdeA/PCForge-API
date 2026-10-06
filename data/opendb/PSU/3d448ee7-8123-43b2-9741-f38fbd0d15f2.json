@@ -1,0 +1,39 @@
+{
+  "opendb_id": "3d448ee7-8123-43b2-9741-f38fbd0d15f2",
+  "wattage": 300,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 150,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 1,
+    "sata": 4,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "be quiet! Pure Power 10 300W Non-Modular 80+ Bronze Certified",
+    "manufacturer": "be quiet!",
+    "part_numbers": ["BN270"],
+    "series": "Pure",
+    "variant": "300W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BN270",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "opendb_id": "8b3e0d87-243b-43c1-9f19-88a614fe6225",
+  "socket": "AM4",
+  "form_factor": "EATX",
+  "chipset": "AMD X570",
+  "memory": {
+    "max": 128,
+    "ram_type": "DDR4",
+    "slots": 4
+  },
+  "color": [],
+  "lighting": [],
+  "pcie_slots": [
+    {
+      "gen": null,
+      "quantity": 0,
+      "lanes": 16
+    },
+    {
+      "gen": null,
+      "quantity": 0,
+      "lanes": 8
+    }
+  ],
+  "m2_slots": [
+    {
+      "size": null,
+      "key": null,
+      "interface": null
+    },
+    {
+      "size": null,
+      "key": null,
+      "interface": null
+    }
+  ],
+  "storage_devices": {
+    "sata_6_gb_s": 6,
+    "sata_3_gb_s": 0,
+    "u2": 0
+  },
+  "onboard_ethernet": [
+    {
+      "speed": null,
+      "controller": null
+    }
+  ],
+  "usb_headers": {
+    "usb_2_0": 4,
+    "usb_3_2_gen_1": 4,
+    "usb_3_2_gen_2": 3,
+    "usb_3_2_gen_2x2": 1,
+    "usb_4": 0
+  },
+  "power_connectors": {
+    "cpu_power": []
+  },
+  "ecc_support": false,
+  "raid_support": true,
+  "back_connect_connectors": false,
+  "bios_features": {
+    "flashback": false,
+    "clear_cmos": false
+  },
+  "audio": {
+    "chipset": "Realtek® ALC1220 CodecESS® E9018 Codec",
+    "channels": "7.1"
+  },
+  "back_panel_ports": [
+    "Clear CMOS Button",
+    "Wi-Fi /Bluetooth Antenna Connectors",
+    "PS/2 GAMING Device Port",
+    "Killer 2.5G + Killer Gigabit LAN",
+    "HD Audio Connectors",
+    "Flash BIOS Button",
+    "USB 3.2 Gen1 Ports",
+    "USB 3.2 Gen2 Ports Type-A+C",
+    "USB 3.2 Gen2 Ports",
+    "6.3mm headphone",
+    "Optical S/PDIF-Out"
+  ],
+  "metadata": {
+    "name": "MEG X570 GODLIKE",
+    "manufacturer": "MSI",
+    "part_numbers": ["X570GODLIKE"],
+    "series": "MEG",
+    "variant": "X570 GODLIKE",
+    "releaseYear": 2022
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0824142187821",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MEG X570 GODLIKE",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "X570GODLIKE",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "824142187821",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B07T5QDRFN",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "9SIBMM4K740450",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "9SIBMM4K740450",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "262362834",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

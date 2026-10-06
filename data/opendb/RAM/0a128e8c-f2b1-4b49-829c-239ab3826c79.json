@@ -1,0 +1,23 @@
+{
+  "opendb_id": "0a128e8c-f2b1-4b49-829c-239ab3826c79",
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["BLACK"],
+  "lighting": [],
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP Team T-Force Dark Za DDR4 Gaming Memory, 2 x 8 GB, 3600 Mhz, 288 Pin DIMM, Black",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["TDZAD416G3600HC18JDC01"],
+    "series": "Team T-Force Dark Za",
+    "variant": "Black"
+  },
+  "general_product_information": {}
+}

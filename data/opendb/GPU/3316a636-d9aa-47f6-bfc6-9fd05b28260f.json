@@ -1,0 +1,63 @@
+{
+  "opendb_id": "3316a636-d9aa-47f6-bfc6-9fd05b28260f",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 4070 SUPER",
+  "core_count": 7168,
+  "core_base_clock": 1980,
+  "core_boost_clock": 2640,
+  "memory": 12,
+  "memory_type": "GDDR6X",
+  "effective_memory_clock": 0,
+  "memory_bus": 0,
+  "tdp": 220,
+  "interface": "PCIe x16",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 329,
+  "total_slot_width": 4,
+  "cooling": "3 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 1,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 1,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "Gainward Panther OC GeForce RTX 4070 SUPER 12GB GDDR6X Black",
+    "manufacturer": "Gainward",
+    "part_numbers": ["NED407ST19K9-1043Z", "4113"],
+    "series": "GeForce RTX 4070 SUPER",
+    "variant": "Gainward"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "4710562244113",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "4113",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "NED407ST19K9-1043Z",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

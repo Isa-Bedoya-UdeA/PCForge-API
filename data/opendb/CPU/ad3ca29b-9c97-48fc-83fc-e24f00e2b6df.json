@@ -1,0 +1,55 @@
+{
+  "opendb_id": "ad3ca29b-9c97-48fc-83fc-e24f00e2b6df",
+  "series": "Intel Xeon E",
+  "microarchitecture": "Coffee Lake Refresh",
+  "coreFamily": "Coffee Lake Refresh",
+  "socket": "LGA 1151",
+  "cores": {
+    "total": 6,
+    "performance": 6,
+    "threads": 12
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.6,
+      "boost": 4.8
+    }
+  },
+  "cache": {
+    "l2": 5,
+    "l3": 12
+  },
+  "specifications": {
+    "tdp": 80,
+    "integratedGraphics": {
+      "model": "Intel HD Graphics P630"
+    },
+    "eccSupport": true,
+    "includesCooler": false,
+    "packaging": "OEM/Tray",
+    "lithography": "14 nm",
+    "simultaneousMultithreading": true,
+    "memory": {
+      "maxSupport": 128,
+      "types": []
+    }
+  },
+  "metadata": {
+    "name": "Intel Xeon E 2246G 3.6 GHz 6-Core LGA1151 OEM/Tray",
+    "manufacturer": "Intel",
+    "part_numbers": ["CM8068404227903"],
+    "series": "Intel Xeon E"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CM8068404227903",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "opendb_id": "60609a9c-77d2-4f5b-897c-ffa9ac01b309",
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK"],
+  "lighting": [],
+  "cas_latency": 16,
+  "timings": "16-19-19-39",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Mushkin Redline Black DDR4-3600 CL16 32GB (2x16GB)",
+    "manufacturer": "Mushkin",
+    "part_numbers": ["MRC4E360GKKP16GX2"],
+    "series": "Redline",
+    "variant": "3600 CL16"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MRC4E360GKKP16GX2",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

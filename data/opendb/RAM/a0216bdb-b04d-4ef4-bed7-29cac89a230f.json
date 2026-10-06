@@ -1,0 +1,56 @@
+{
+  "opendb_id": "a0216bdb-b04d-4ef4-bed7-29cac89a230f",
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["WHITE"],
+  "lighting": ["ARGB"],
+  "cas_latency": 18,
+  "timings": "18-22-22-42",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "metadata": {
+    "name": "Timetec PINNACLE Konduit RGB DDR4-3600 CL18 16GB (2x8GB)",
+    "manufacturer": "Timetec",
+    "part_numbers": ["PKMD4U36C18FHW8GK2"],
+    "series": "PINNACLE Konduit",
+    "variant": "3600 CL18",
+    "manufacturer_color": "White"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PKMD4U36C18FHW8GK2",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "0RN-00A3-001G4",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "0RN-00A3-001G4",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

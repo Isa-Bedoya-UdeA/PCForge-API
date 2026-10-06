@@ -1,0 +1,36 @@
+{
+  "opendb_id": "ac47645f-924e-4e60-a631-742001acd09c",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "KIOXIA EXCERIA PRO 1TB SSD M.2-2280 PCIe 4.0 x4 NVMe",
+    "manufacturer": "KIOXIA",
+    "part_numbers": ["LSE10Z001TG8"],
+    "series": "EXCERIA",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "LSE10Z001TG8",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "computer-orbit",
+        "channel": "uk",
+        "source_product_id": "LSE10Z001TG8",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

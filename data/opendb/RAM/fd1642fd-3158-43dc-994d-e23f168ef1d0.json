@@ -1,0 +1,40 @@
+{
+  "opendb_id": "fd1642fd-3158-43dc-994d-e23f168ef1d0",
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 32
+  },
+  "capacity": 64,
+  "color": ["BLACK", "GREY"],
+  "lighting": [],
+  "cas_latency": 18,
+  "timings": "18-22-22-42",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Mushkin Enhanced Redline Stiletto Black / Silver DDR4-3600 CL18 64GB (2x32GB)",
+    "manufacturer": "Mushkin",
+    "part_numbers": ["MRF4U360JNNM32GX2"],
+    "series": "Enhanced",
+    "variant": "3600 CL18"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MRF4U360JNNM32GX2",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

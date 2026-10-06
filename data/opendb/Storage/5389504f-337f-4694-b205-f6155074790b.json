@@ -1,0 +1,28 @@
+{
+  "opendb_id": "5389504f-337f-4694-b205-f6155074790b",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Patriot Burst 480GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Patriot",
+    "part_numbers": ["PBU480GS25SSDR"],
+    "series": "Burst",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PBU480GS25SSDR",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

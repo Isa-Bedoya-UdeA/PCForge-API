@@ -1,0 +1,41 @@
+{
+  "opendb_id": "a539b3a6-7a62-45a6-946b-9502053c5111",
+  "speed": 4000,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 8,
+    "capacity_gb": 8
+  },
+  "capacity": 64,
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "cas_latency": 15,
+  "timings": "15-16-16-36",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "G.Skill Ripjaws V Black DDR4-4000 CL15 64GB (8x8GB)",
+    "manufacturer": "G.SKILL",
+    "part_numbers": ["F4-4000C15Q2-64GVK"],
+    "series": "Ripjaws V",
+    "variant": "Default",
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "F4-4000C15Q2-64GVK",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

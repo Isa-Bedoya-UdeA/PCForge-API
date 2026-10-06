@@ -1,0 +1,44 @@
+{
+  "opendb_id": "3e617d0a-19db-4e98-bde9-06c5cbc8dd30",
+  "speed": 1333,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 4,
+    "capacity_gb": 8
+  },
+  "capacity": 32,
+  "color": ["GREEN"],
+  "lighting": [],
+  "cas_latency": 9,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "metadata": {
+    "name": "Kingston KVR1333D3N9HK4/32G Green DDR3-1333 CL9 32GB (4x8GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KVR1333D3N9HK4", "32G"],
+    "series": "KVR1333D3N9HK4/32G",
+    "variant": "1333 CL9"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "32G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "KVR1333D3N9HK4",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

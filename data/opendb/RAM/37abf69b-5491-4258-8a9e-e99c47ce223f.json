@@ -1,0 +1,41 @@
+{
+  "opendb_id": "37abf69b-5491-4258-8a9e-e99c47ce223f",
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 4,
+    "capacity_gb": 8
+  },
+  "capacity": 32,
+  "color": ["WHITE"],
+  "lighting": ["None"],
+  "cas_latency": 16,
+  "timings": "16-18-18-36",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Corsair Vengeance LPX White DDR4-3200 CL16 32GB (4x8GB)",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CMK32GX4M4B3200C16W"],
+    "series": "Vengeance LPX",
+    "variant": "Default",
+    "manufacturer_color": "White"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CMK32GX4M4B3200C16W",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

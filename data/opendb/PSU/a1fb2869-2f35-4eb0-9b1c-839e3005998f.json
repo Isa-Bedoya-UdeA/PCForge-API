@@ -1,0 +1,39 @@
+{
+  "opendb_id": "a1fb2869-2f35-4eb0-9b1c-839e3005998f",
+  "wattage": 550,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": null,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 5,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "SHARKOON WPC Bronze Black 550W Non-Modular 80+ Bronze Certified ATX",
+    "manufacturer": "SHARKOON",
+    "part_numbers": ["WPC550 Bronze"],
+    "series": "WPC",
+    "variant": "550W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "WPC550 Bronze",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

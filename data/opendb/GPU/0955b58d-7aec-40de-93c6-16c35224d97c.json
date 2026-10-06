@@ -1,0 +1,54 @@
+{
+  "opendb_id": "0955b58d-7aec-40de-93c6-16c35224d97c",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 5090",
+  "core_count": 21760,
+  "core_base_clock": 2010,
+  "core_boost_clock": 2010,
+  "memory": 32,
+  "memory_type": "GDDR7",
+  "effective_memory_clock": 0,
+  "memory_bus": 512,
+  "tdp": 575,
+  "interface": "PCIe x16",
+  "color": ["BLACK", "GREY"],
+  "lighting": [],
+  "length": 358,
+  "total_slot_width": 4,
+  "cooling": "3 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 2,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 3,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 0,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "Asus ROG Astral BTF GeForce RTX 5090 32GB GDDR7 Black / Silver",
+    "manufacturer": "ASUS",
+    "part_numbers": ["rog-astral-rtx5090-32g-btf-gaming"],
+    "series": "ROG",
+    "variant": "Astral BTF",
+    "manufacturer_color": "Black / Silver"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "rog-astral-rtx5090-32g-btf-gaming",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

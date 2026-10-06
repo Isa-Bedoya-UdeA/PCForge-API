@@ -1,0 +1,28 @@
+{
+  "opendb_id": "b3938ce4-3025-4d09-8c89-a968370d2961",
+  "capacity": 256,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "HP S750 256GB SSD 2.5\" SATA",
+    "manufacturer": "HP",
+    "part_numbers": ["16L52AA#ABA"],
+    "series": "S750",
+    "variant": "256GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "16L52AA#ABA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

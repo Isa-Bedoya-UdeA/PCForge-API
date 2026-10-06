@@ -1,0 +1,40 @@
+{
+  "opendb_id": "7e02c49f-af72-4589-b8bc-dfb3c5953e7d",
+  "speed": 5200,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["WHITE"],
+  "lighting": [],
+  "cas_latency": 36,
+  "timings": "36-38-38-74",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "metadata": {
+    "name": "OLOy Blade RGB DDR5-5200 CL36 32GB (2x16GB)",
+    "manufacturer": "OLOy",
+    "part_numbers": ["ND5U1652361BRKDE"],
+    "series": "Blade",
+    "variant": "5200 CL36"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ND5U1652361BRKDE",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

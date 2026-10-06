@@ -1,0 +1,39 @@
+{
+  "opendb_id": "7d9b8a72-7ab8-435d-b4e4-1b4ab2d1d129",
+  "wattage": 635,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Raidmax Scorpio ATX 635W Semi-Modular 80+ Bronze Certified",
+    "manufacturer": "Raidmax",
+    "part_numbers": ["RX-635AP-S"],
+    "series": "Scorpio",
+    "variant": "635W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RX-635AP-S",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

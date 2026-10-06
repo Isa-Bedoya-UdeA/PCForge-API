@@ -1,0 +1,28 @@
+{
+  "opendb_id": "f5d75017-12f0-4916-bf8b-1852d112e391",
+  "capacity": 120,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 SATA",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Samsung 850 Evo 120GB M.2 SSD SATA",
+    "manufacturer": "Samsung",
+    "part_numbers": ["MZ-N5E120BW"],
+    "series": "850",
+    "variant": "120GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MZ-N5E120BW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "opendb_id": "73b968ee-16a0-4837-a478-e5ffefb18f19",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Silverstone Strider 1000W Semi-Modular 80+ Gold",
+    "manufacturer": "Silverstone",
+    "part_numbers": ["SST-ST1000-G Evolution", "SST-ST1000-G Evo"],
+    "series": "Strider",
+    "variant": "1000W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SST-ST1000-G Evo",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SST-ST1000-G Evolution",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

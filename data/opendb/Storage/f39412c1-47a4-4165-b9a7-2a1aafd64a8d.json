@@ -1,0 +1,33 @@
+{
+  "opendb_id": "f39412c1-47a4-4165-b9a7-2a1aafd64a8d",
+  "capacity": 60,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston SSDNow V+200 60GB SSD 2.5\" SATA",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SVP200S3", "60G"],
+    "series": "SSDNow",
+    "variant": "60GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "60G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SVP200S3",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

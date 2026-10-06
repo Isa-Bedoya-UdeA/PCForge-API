@@ -1,0 +1,28 @@
+{
+  "opendb_id": "b969ee72-fd53-4ad5-a6b6-243d23d669f5",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Gigabyte AI TOP 100E 1TB SSD M.2-2280 PCIe 4.0 x4 NVMe",
+    "manufacturer": "Gigabyte",
+    "part_numbers": ["AI100E1TB"],
+    "series": "AI",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AI100E1TB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

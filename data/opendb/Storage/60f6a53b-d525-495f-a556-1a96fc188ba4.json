@@ -1,0 +1,28 @@
+{
+  "opendb_id": "60f6a53b-d525-495f-a556-1a96fc188ba4",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Inland Professional 480GB SSD 2.5\" SATA",
+    "manufacturer": "Inland",
+    "part_numbers": ["480 GB SSD"],
+    "series": "Professional",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "480 GB SSD",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

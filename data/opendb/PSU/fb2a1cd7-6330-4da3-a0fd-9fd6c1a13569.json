@@ -1,0 +1,47 @@
+{
+  "opendb_id": "fb2a1cd7-6330-4da3-a0fd-9fd6c1a13569",
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 150,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 9,
+    "molex_4_pin": 9,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Antec True Power 650W Fully Modular 80+ Bronze Certified",
+    "manufacturer": "Antec",
+    "part_numbers": ["TP-650"],
+    "series": "True",
+    "variant": "650W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "TP-650",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "gigantec",
+        "channel": "es",
+        "source_product_id": "18068",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

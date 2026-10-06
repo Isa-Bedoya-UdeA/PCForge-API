@@ -1,0 +1,222 @@
+{
+  "opendb_id": "0f7e217c-5c55-42a1-b934-b841084b4f85",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 4070 Ti",
+  "core_count": 7680,
+  "core_base_clock": 0,
+  "core_boost_clock": 2745,
+  "memory": 12,
+  "memory_type": "GDDR6X",
+  "effective_memory_clock": 21000,
+  "memory_bus": 192,
+  "tdp": 285,
+  "interface": "PCIe 4.0 x16",
+  "frame_sync": "G-Sync",
+  "color": [],
+  "lighting": [],
+  "length": 338,
+  "case_expansion_slot_width": 3,
+  "total_slot_width": 0,
+  "cooling": "3 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 1,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 1,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "GeForce RTX 4070 Ti SUPRIM 12G",
+    "manufacturer": "MSI",
+    "part_numbers": ["GeForce RTX 4070 Ti SUPRIM X 12G", "G407TSX12"],
+    "series": "SUPRIM",
+    "variant": null,
+    "releaseYear": 2023
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0824142306468",
+        "region": "all"
+      },
+      {
+        "type": "ean",
+        "value": "4711377027304",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "G407TSX12",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "GeForce RTX 4070 Ti SUPRIM X 12G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "RTX 4070 Ti SUPRIM X 12G",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "824142306468",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B0BNW9Z91T",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "bhphoto",
+        "channel": "us",
+        "source_product_id": "MSG407TSX12",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "2871171",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "2871171",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "2871171",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "1652801508",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

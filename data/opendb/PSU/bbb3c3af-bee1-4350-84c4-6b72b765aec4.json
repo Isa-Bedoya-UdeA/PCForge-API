@@ -1,0 +1,91 @@
+{
+  "opendb_id": "bbb3c3af-bee1-4350-84c4-6b72b765aec4",
+  "wattage": 550,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 6,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cooler Master MWE Bronze V3 Black 550W Non-Modular 80+ Bronze",
+    "manufacturer": "Cooler Master",
+    "part_numbers": [
+      "MPE-5501-ACABW-3BUK",
+      "MPE-5501-ACABW-3BBR",
+      "MPE-5501-ACABW-3BST",
+      "MPE-5501-ACABW-3BTH",
+      "MPE-5501-ACABW-3BEU",
+      "MPE-5501-ACABW-3BAU",
+      "MPE-5501-ACABW-3BIN",
+      "MPE-5503-ACABW-3BKR"
+    ],
+    "series": "MWE",
+    "variant": "550W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MPE-5501-ACABW-3BAU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-5501-ACABW-3BBR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-5501-ACABW-3BEU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-5501-ACABW-3BIN",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-5501-ACABW-3BST",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-5501-ACABW-3BTH",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-5501-ACABW-3BUK",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-5503-ACABW-3BKR",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "mwave",
+        "channel": "au",
+        "source_product_id": "AC76515",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

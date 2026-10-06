@@ -1,0 +1,39 @@
+{
+  "opendb_id": "13511655-a85c-40b2-8c0b-c33d5ef5baa4",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 9,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Rosewill CMG1000 Black 1000W 80+ Gold Fully Modular",
+    "manufacturer": "Rosewill",
+    "part_numbers": ["CMG1000"],
+    "series": "CMG1000",
+    "variant": "1000W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CMG1000",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "opendb_id": "ffc77eb0-adfd-46af-92b5-6908a72bea1c",
+  "wattage": 700,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 5,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "KOLINK Core RGB 700W Non-Modular 80+ Certified",
+    "manufacturer": "KOLINK",
+    "part_numbers": ["PGW-PS-KOL-031", "KL-C700-RGB"],
+    "series": "Core",
+    "variant": "700W 80+"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "KL-C700-RGB",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PGW-PS-KOL-031",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

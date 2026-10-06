@@ -1,0 +1,55 @@
+{
+  "opendb_id": "c1adfe4a-66ad-45f3-a9e7-d750390d34e7",
+  "series": "Intel Xeon E3",
+  "microarchitecture": "Skylake",
+  "coreFamily": "Skylake-H",
+  "socket": "LGA 1151",
+  "cores": {
+    "total": 4,
+    "performance": 4,
+    "threads": 4
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.3,
+      "boost": 3.7
+    }
+  },
+  "cache": {
+    "l2": 1,
+    "l3": 8
+  },
+  "specifications": {
+    "tdp": 80,
+    "integratedGraphics": {
+      "model": "Intel HD Graphics P530"
+    },
+    "eccSupport": true,
+    "includesCooler": true,
+    "packaging": "Boxed",
+    "lithography": "14 nm",
+    "simultaneousMultithreading": false,
+    "memory": {
+      "maxSupport": 64,
+      "types": []
+    }
+  },
+  "metadata": {
+    "name": "Intel Xeon E3 1225 V5 3.3 GHz 4-Core LGA1151",
+    "manufacturer": "Intel",
+    "part_numbers": ["BX80662E31225V5"],
+    "series": "Intel Xeon E3"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BX80662E31225V5",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

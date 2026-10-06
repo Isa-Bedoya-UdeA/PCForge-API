@@ -1,0 +1,39 @@
+{
+  "opendb_id": "1649c961-2afc-46a0-9be4-b805680094e8",
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["GOLD", "BLACK"],
+  "lighting": [],
+  "cas_latency": 16,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "OLOy B-21 Raider Gold / Black DDR4-3200 CL16 16GB (2x8GB)",
+    "manufacturer": "OLOy",
+    "part_numbers": ["ND4U0832161BB2DB"],
+    "series": "B-21",
+    "variant": "3200 CL16"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ND4U0832161BB2DB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "opendb_id": "af16e669-8938-4f64-a2ec-ef7e84cbba31",
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK", "GOLD"],
+  "lighting": [],
+  "cas_latency": 16,
+  "timings": "16-20-20-38",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "OLOy ND4U1632161DB1DA Black / Gold DDR4-3200 CL16 32GB (2x16GB)",
+    "manufacturer": "OLOy",
+    "part_numbers": ["ND4U1632161DB1DA"],
+    "series": "ND4U1632161DB1DA",
+    "variant": "3200 CL16"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ND4U1632161DB1DA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

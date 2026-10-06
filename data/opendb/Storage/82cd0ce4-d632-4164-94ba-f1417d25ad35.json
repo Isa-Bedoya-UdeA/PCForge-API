@@ -1,0 +1,28 @@
+{
+  "opendb_id": "82cd0ce4-d632-4164-94ba-f1417d25ad35",
+  "capacity": 256,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Crucial RealSSD C300 256GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Crucial",
+    "part_numbers": ["CTFDDAC256MAG-1G1"],
+    "series": "RealSSD",
+    "variant": "256GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CTFDDAC256MAG-1G1",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

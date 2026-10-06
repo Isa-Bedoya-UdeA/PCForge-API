@@ -1,0 +1,33 @@
+{
+  "opendb_id": "e01dc6e8-babd-4a0c-9f08-59e2eae869f4",
+  "capacity": 256,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Verbatim Vi3000 256GB SSD M.2 PCIe 3.0 NVMe",
+    "manufacturer": "Verbatim",
+    "part_numbers": ["70871", "49373"],
+    "series": "Vi3000",
+    "variant": "256GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "49373",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "70871",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

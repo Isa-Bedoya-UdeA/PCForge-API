@@ -1,0 +1,216 @@
+{
+  "opendb_id": "1c3809c7-e63d-4002-9da1-9ce7094b35ae",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 3080 Ti",
+  "core_count": 10240,
+  "core_base_clock": 1365,
+  "core_boost_clock": 1695,
+  "memory": 12,
+  "memory_type": "GDDR6X",
+  "effective_memory_clock": 19000,
+  "memory_bus": 0,
+  "tdp": 350,
+  "interface": "PCIe x16",
+  "color": ["BLACK", "GREY"],
+  "lighting": [],
+  "length": 318,
+  "total_slot_width": 4,
+  "cooling": "3 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 0,
+    "hdmi_2_0": 1,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "Zotac GAMING Trinity OC GeForce RTX 3080 Ti 12GB GDDR6X Black / Silver",
+    "manufacturer": "Zotac",
+    "part_numbers": ["ZT-A30810J-10P"],
+    "series": "GeForce RTX 3080 Ti",
+    "variant": "Zotac"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0810012082235",
+        "region": "all"
+      },
+      {
+        "type": "ean",
+        "value": "4895173623202",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "ZT-A30810J-10P",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "810012082235",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B097DTK1F6",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "2538391",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "2538391",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "9SIA8HFHYZ9534",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "9SIA8HFHYZ9534",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "2538391",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "849308222",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

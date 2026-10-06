@@ -1,0 +1,39 @@
+{
+  "opendb_id": "fc155afc-d11d-4712-a60e-6e1fc5b1ecd9",
+  "speed": 6000,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK", "GREY"],
+  "lighting": [],
+  "cas_latency": 40,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "metadata": {
+    "name": "ADATA XPG CASTER RGB Black / Silver DDR5-6000 CL40 32GB (2x16GB)",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX5U6000C4016G-DCCARGY"],
+    "series": "XPG",
+    "variant": "6000 CL40"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AX5U6000C4016G-DCCARGY",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

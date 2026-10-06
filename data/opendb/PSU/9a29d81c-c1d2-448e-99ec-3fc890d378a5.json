@@ -1,0 +1,300 @@
+{
+  "opendb_id": "9a29d81c-c1d2-448e-99ec-3fc890d378a5",
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 1,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "ADATA XPG PYLON Black 650W Non-Modular 80+ Bronze Certified",
+    "manufacturer": "ADATA",
+    "part_numbers": [
+      "PYLON650B-BKCUS",
+      "PYLON650B-BKCAR",
+      "PYLON650B-BKCAU",
+      "PYLON650B-BKCBR",
+      "PYLON650B-BKCCN",
+      "PYLON650B-BKCEU",
+      "PYLON650B-BKCGB",
+      "PYLON650B-BKCJP",
+      "PYLON650B-BKCKR",
+      "PYLON650B-BKCTW",
+      "PYLON650B-BKCZA",
+      "PYLON 650",
+      "75260131",
+      "Pylon"
+    ],
+    "series": "XPG",
+    "variant": "650W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "4710273776873",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "75260131",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "Pylon",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON 650",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCAR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCAU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCBR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCCN",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCEU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCGB",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCJP",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCKR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCTW",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCUS",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PYLON650B-BKCZA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B08G7Q7TL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "2440178",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "2440178",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "gigantec",
+        "channel": "es",
+        "source_product_id": "25386",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "neobyte",
+        "channel": "es",
+        "source_product_id": "FA01AD05",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "proshop",
+        "channel": "de",
+        "source_product_id": "2913453",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "proshop",
+        "channel": "fi",
+        "source_product_id": "2913453",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "proshop",
+        "channel": "nl",
+        "source_product_id": "2913453",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "proshop",
+        "channel": "pl",
+        "source_product_id": "2913453",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "ruedecommerce",
+        "channel": "fr",
+        "source_product_id": "MKR00000693188",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "2440178",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "ac841878-9aee-44cf-b72c-6c52b2752e09",
+  "capacity": 4000,
+  "storage_type": "HDD",
+  "form_factor": "3.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Toshiba X300 4TB 3.5\" HDD 7200RPM SATA",
+    "manufacturer": "Toshiba",
+    "part_numbers": ["HDWR440XZSTA"],
+    "series": "X300",
+    "variant": "4000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "HDWR440XZSTA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

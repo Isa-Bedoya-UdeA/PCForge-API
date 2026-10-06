@@ -1,0 +1,40 @@
+{
+  "opendb_id": "ef4e21dd-65de-4fe4-9514-de0cf1dfec52",
+  "speed": 6400,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK"],
+  "lighting": [],
+  "cas_latency": 32,
+  "timings": "32-38-38-76",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "OLOy Blade Black DDR5-6400 CL32 32GB (2x16GB)",
+    "manufacturer": "OLOy",
+    "part_numbers": ["ND5U1664320IRLDE"],
+    "series": "Blade",
+    "variant": "6400 CL32"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ND5U1664320IRLDE",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

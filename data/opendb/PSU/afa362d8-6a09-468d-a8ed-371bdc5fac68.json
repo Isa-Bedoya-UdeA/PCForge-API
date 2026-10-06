@@ -1,0 +1,39 @@
+{
+  "opendb_id": "afa362d8-6a09-468d-a8ed-371bdc5fac68",
+  "wattage": 350,
+  "form_factor": "ATX",
+  "efficiency_rating": null,
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": null,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 2,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Diablotek PHD350 ATX 350W Non-Modular",
+    "manufacturer": "Diablotek",
+    "part_numbers": ["PHD350"],
+    "series": "PHD350",
+    "variant": "350W "
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PHD350",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

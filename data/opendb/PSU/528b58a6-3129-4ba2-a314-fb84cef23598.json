@@ -1,0 +1,155 @@
+{
+  "opendb_id": "528b58a6-3129-4ba2-a314-fb84cef23598",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 10,
+    "molex_4_pin": 5,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Super Flower Leadex Platinum SE 1000W Fully Modular 80+ Platinum Certified ATX",
+    "manufacturer": "Super Flower",
+    "part_numbers": ["SF-1000F14MP V2", "SF-1000F14MP"],
+    "series": "Leadex",
+    "variant": "1000W Platinum"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "4711213445996",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SF-1000F14MP",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SF-1000F14MP V2",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B087GYDTG4",
+        "pricing_enabled": true,
+        "verified": true
+      }
+    ]
+  }
+}

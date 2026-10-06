@@ -1,0 +1,40 @@
+{
+  "opendb_id": "0e467d88-e90d-4800-99c6-c9059dc5f784",
+  "speed": 6000,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["GREY"],
+  "lighting": [],
+  "cas_latency": 40,
+  "timings": "40-40-40-77",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP Elite Plus Silver DDR5-6000 CL40 32GB (2x16GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["TPSD532G6000HC48DC01"],
+    "series": "Elite",
+    "variant": "6000 CL40"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "TPSD532G6000HC48DC01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

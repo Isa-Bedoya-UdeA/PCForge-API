@@ -1,0 +1,49 @@
+{
+  "opendb_id": "535cba95-2750-4378-9db2-eebd8942270f",
+  "wattage": 550,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 139,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 1,
+    "sata": 9,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "XFX TS 550W Non-Modular 80+ Bronze Certified ATX",
+    "manufacturer": "XFX",
+    "part_numbers": ["XFX TS 550W", "P1-550S-GREN", "P1550SXXB9"],
+    "series": "TS",
+    "variant": "550W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "P1-550S-GREN",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "P1550SXXB9",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "XFX TS 550W",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

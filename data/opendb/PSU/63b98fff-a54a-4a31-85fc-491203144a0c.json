@@ -1,0 +1,39 @@
+{
+  "opendb_id": "63b98fff-a54a-4a31-85fc-491203144a0c",
+  "wattage": 500,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 5,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Rosewill VALENS-500 ATX 500W Non-Modular 80+ Gold",
+    "manufacturer": "Rosewill",
+    "part_numbers": ["VALENS-500"],
+    "series": "VALENS-500",
+    "variant": "500W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "VALENS-500",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

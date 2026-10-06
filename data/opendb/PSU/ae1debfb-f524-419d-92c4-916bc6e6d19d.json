@@ -1,0 +1,39 @@
+{
+  "opendb_id": "ae1debfb-f524-419d-92c4-916bc6e6d19d",
+  "wattage": 750,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 8,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "XClio STABLEPOWER GOLD 750W Fully Modular 80+ Gold",
+    "manufacturer": "XClio",
+    "part_numbers": ["STABLEPOWER GOLD 750W"],
+    "series": "STABLEPOWER",
+    "variant": "750W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "STABLEPOWER GOLD 750W",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

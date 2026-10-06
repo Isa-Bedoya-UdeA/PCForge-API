@@ -1,0 +1,203 @@
+{
+  "opendb_id": "479a943f-49f7-4301-a7b2-af6ee2ef90d2",
+  "wattage": 1100,
+  "form_factor": "SFX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 100,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 8,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cooler Master V SFX 1100W Fully Modular 80+ Platinum Certified",
+    "manufacturer": "Cooler Master",
+    "part_numbers": [
+      "MPZ-B001-SFAP-BUS",
+      "MPZ-B001-SFAP-BUK",
+      "MPZ-B001-SFAP-BEU",
+      "MPZ-B001-SFAP-BAU"
+    ],
+    "series": "V",
+    "variant": "1100W Platinum"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0884102094972",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPZ-B001-SFAP-BAU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPZ-B001-SFAP-BEU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPZ-B001-SFAP-BUK",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPZ-B001-SFAP-BUS",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "884102094972",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B0BTQN4Q13",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "bestbuy",
+        "channel": "us",
+        "source_product_id": "6587959",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16817171231",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16817171231",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "1921795979",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

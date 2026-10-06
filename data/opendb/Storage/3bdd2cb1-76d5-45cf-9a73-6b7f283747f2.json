@@ -1,0 +1,28 @@
+{
+  "opendb_id": "3bdd2cb1-76d5-45cf-9a73-6b7f283747f2",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "HP S750 1TB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "HP",
+    "part_numbers": ["16L54AA#ABA"],
+    "series": "S750",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "16L54AA#ABA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

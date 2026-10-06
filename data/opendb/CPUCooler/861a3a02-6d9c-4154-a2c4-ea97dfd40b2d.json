@@ -1,0 +1,53 @@
+{
+  "opendb_id": "861a3a02-6d9c-4154-a2c4-ea97dfd40b2d",
+  "min_fan_rpm": 500,
+  "max_fan_rpm": 2000,
+  "min_noise_level": null,
+  "max_noise_level": null,
+  "color": ["BLACK", "GREY"],
+  "lighting": [],
+  "height": 150,
+  "cpu_sockets": [
+    "AM4",
+    "AM5",
+    "LGA 1150",
+    "LGA 1151",
+    "LGA 1155",
+    "LGA 1156",
+    "LGA 1200",
+    "LGA 1700"
+  ],
+  "water_cooled": false,
+  "radiator_size": null,
+  "fanless": false,
+  "fan_size": null,
+  "fan_quantity": null,
+  "metadata": {
+    "name": "Deepcool AG400 PLUS Air 75.89 CFM Black / Silver",
+    "manufacturer": "DeepCool",
+    "part_numbers": ["R-AG400-BKNNMD-G"],
+    "series": "AG400",
+    "variant": "Black / Silver",
+    "releaseYear": null
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "R-AG400-BKNNMD-G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "mwave",
+        "channel": "au",
+        "source_product_id": "AC88534",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

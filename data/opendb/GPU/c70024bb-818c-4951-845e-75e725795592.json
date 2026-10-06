@@ -1,0 +1,96 @@
+{
+  "opendb_id": "c70024bb-818c-4951-845e-75e725795592",
+  "chipset_manufacturer": "AMD",
+  "chipset": "Radeon RX 570",
+  "core_base_clock": 1168,
+  "core_boost_clock": 1270,
+  "memory": 8,
+  "memory_type": "GDDR5",
+  "effective_memory_clock": 7000,
+  "memory_bus": 0,
+  "tdp": 150,
+  "interface": "PCIe x16",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 236,
+  "total_slot_width": 2,
+  "cooling": "2 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 1,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 0,
+    "hdmi_2_0": 1,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "ASRock Phantom Gaming D Radeon RX 570 8GB GDDR5 Black",
+    "manufacturer": "ASRock",
+    "part_numbers": ["PG D RADEON RX570 8G OC", "90-GA0K00-00UANF"],
+    "series": "Radeon RX 570",
+    "variant": "ASRock"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "4717677336221",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "90-GA0K00-00UANF",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PG D RADEON RX570 8G OC",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "610822793969",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "back-to-the-office",
+        "channel": "uk",
+        "source_product_id": "55308698583422",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "3336051",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "3336051",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "3336051",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

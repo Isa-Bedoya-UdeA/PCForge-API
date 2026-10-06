@@ -1,0 +1,39 @@
+{
+  "opendb_id": "17ac7fe7-be31-490c-ba18-594ae7d8fcd0",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 6,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Antec Signature 850W Fully Modular 80+ Bronze Certified",
+    "manufacturer": "Antec",
+    "part_numbers": ["SG-850"],
+    "series": "Signature",
+    "variant": "850W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SG-850",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

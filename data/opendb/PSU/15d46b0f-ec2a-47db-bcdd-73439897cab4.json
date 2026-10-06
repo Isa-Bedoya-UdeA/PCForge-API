@@ -1,0 +1,39 @@
+{
+  "opendb_id": "15d46b0f-ec2a-47db-bcdd-73439897cab4",
+  "wattage": 550,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 4,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Insignia NS-PCW5508 550W Non-Modular 80+ Bronze Certified",
+    "manufacturer": "Insignia",
+    "part_numbers": ["NS-PCW5508"],
+    "series": "NS-PCW5508",
+    "variant": "550W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "NS-PCW5508",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

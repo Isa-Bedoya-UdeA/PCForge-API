@@ -1,0 +1,33 @@
+{
+  "opendb_id": "c8a46e41-84c2-4bba-b729-ee987fc80637",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston HyperX 3K 480GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SH103S3B", "480G"],
+    "series": "HyperX",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "480G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SH103S3B",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

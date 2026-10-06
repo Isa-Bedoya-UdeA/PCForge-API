@@ -1,0 +1,39 @@
+{
+  "opendb_id": "f7744b04-c39e-43b2-9265-c30304e29cb6",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 170,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 9,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Thermaltake Smart Pro RGB 850W Fully Modular 80+ Bronze Certified",
+    "manufacturer": "Thermaltake",
+    "part_numbers": ["PS-SPR-0850FPCBUS-R"],
+    "series": "Smart",
+    "variant": "850W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PS-SPR-0850FPCBUS-R",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

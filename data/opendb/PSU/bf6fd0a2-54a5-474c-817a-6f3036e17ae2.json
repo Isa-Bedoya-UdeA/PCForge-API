@@ -1,0 +1,39 @@
+{
+  "opendb_id": "bf6fd0a2-54a5-474c-817a-6f3036e17ae2",
+  "wattage": 750,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 8,
+    "molex_4_pin": 5,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Fractal Design Edison M 750W Semi-Modular 80+ Gold",
+    "manufacturer": "Fractal Design",
+    "part_numbers": ["FD-PSU-ED1B-750W"],
+    "series": "Edison",
+    "variant": "750W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "FD-PSU-ED1B-750W",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

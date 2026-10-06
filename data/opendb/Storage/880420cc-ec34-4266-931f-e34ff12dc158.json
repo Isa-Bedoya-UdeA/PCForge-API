@@ -1,0 +1,43 @@
+{
+  "opendb_id": "880420cc-ec34-4266-931f-e34ff12dc158",
+  "capacity": 120,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Samsung 850 Evo 120 GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Samsung",
+    "part_numbers": ["MZ-75E120B", "AM", "EU", "MZ-75E120BW"],
+    "series": "850",
+    "variant": "120GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AM",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "EU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MZ-75E120B",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MZ-75E120BW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

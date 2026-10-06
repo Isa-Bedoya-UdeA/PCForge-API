@@ -1,0 +1,39 @@
+{
+  "opendb_id": "ff235d43-9982-4d97-a867-9612d57505ea",
+  "speed": 6400,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["BLACK"],
+  "lighting": [],
+  "cas_latency": 40,
+  "timings": "40-40-40-84",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP T-Force Vulcanα Black DDR5-6400 CL40 16GB (2x8GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["FLABD516G6400HC40BDC01"],
+    "series": "T-Force Vulcanα"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "FLABD516G6400HC40BDC01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

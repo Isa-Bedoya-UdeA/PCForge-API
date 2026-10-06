@@ -1,0 +1,195 @@
+{
+  "opendb_id": "0e1d710b-c5e2-4ec3-beb8-a65102b7cdc6",
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 125,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 10,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Corsair CV650 Black 650W Non-Modular 80+ Bronze Certified ATX",
+    "manufacturer": "Corsair",
+    "part_numbers": [
+      "CP-9020236-NA",
+      "CP-9020211-NA",
+      "CP-9020236-UK",
+      "CP-9020236-EU",
+      "CP-9020236-AU"
+    ],
+    "series": "CV650",
+    "variant": "650W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0840006615200",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CP-9020211-NA",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CP-9020236-AU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CP-9020236-EU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CP-9020236-NA",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CP-9020236-UK",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "840006615200",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B0838YDBP3",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "9SIB8AKKAN3207",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "9SIB8AKKAN3207",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

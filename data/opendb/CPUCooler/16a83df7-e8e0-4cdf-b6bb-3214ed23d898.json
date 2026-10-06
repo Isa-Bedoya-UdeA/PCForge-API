@@ -1,0 +1,100 @@
+{
+  "opendb_id": "16a83df7-e8e0-4cdf-b6bb-3214ed23d898",
+  "min_fan_rpm": 700,
+  "max_fan_rpm": 1800,
+  "min_noise_level": 18,
+  "max_noise_level": 35.2,
+  "color": [],
+  "lighting": [],
+  "height": null,
+  "cpu_sockets": [
+    "AM4",
+    "AM5",
+    "LGA 1150",
+    "LGA 1151",
+    "LGA 1155",
+    "LGA 1156",
+    "LGA 1200",
+    "LGA 1366",
+    "LGA 2011",
+    "LGA 2066"
+  ],
+  "water_cooled": true,
+  "radiator_size": 240,
+  "fanless": false,
+  "fan_size": 120,
+  "fan_quantity": 2,
+  "metadata": {
+    "name": "AURAFLOW X 240",
+    "manufacturer": "ID-COOLING",
+    "part_numbers": ["CW-9060047-WW"],
+    "series": "AURAFLOW X",
+    "variant": "240",
+    "releaseYear": 2018
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0840006618768",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CW-9060047-WW",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "840006618768",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "bestbuy",
+        "channel": "us",
+        "source_product_id": "6422731",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "2373504",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "2373504",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16835181202R",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16835181202R",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "2373504",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

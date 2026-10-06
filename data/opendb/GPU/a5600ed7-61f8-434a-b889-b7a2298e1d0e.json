@@ -1,0 +1,63 @@
+{
+  "opendb_id": "a5600ed7-61f8-434a-b889-b7a2298e1d0e",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 4080",
+  "core_count": 9728,
+  "core_base_clock": 2205,
+  "core_boost_clock": 2550,
+  "memory": 16,
+  "memory_type": "GDDR6X",
+  "effective_memory_clock": 0,
+  "memory_bus": 0,
+  "tdp": 320,
+  "interface": "PCIe x16",
+  "color": ["GREY", "BLACK"],
+  "lighting": [],
+  "length": 322,
+  "total_slot_width": 3,
+  "cooling": "3 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 1,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 2,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 2,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "MSI GeForce RTX 4080 VENTUS 3X E OC 16GB GDDR6X Silver / Black",
+    "manufacturer": "MSI",
+    "part_numbers": [],
+    "series": "VENTUS",
+    "variant": "3X E OC"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GeForce RTX 4080 16GB VENTUS 3X E OC",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "RTX 4080 16GB VENTUS 3X E OC",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "V511-207R",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

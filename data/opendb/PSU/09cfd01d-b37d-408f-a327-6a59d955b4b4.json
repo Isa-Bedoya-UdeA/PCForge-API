@@ -1,0 +1,47 @@
+{
+  "opendb_id": "09cfd01d-b37d-408f-a327-6a59d955b4b4",
+  "wattage": 550,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 150,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 1,
+    "sata": 9,
+    "molex_4_pin": 9,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Antec True Power 550W 80+ Bronze Certified Fully Modular",
+    "manufacturer": "Antec",
+    "part_numbers": ["TP-550"],
+    "series": "True",
+    "variant": "550W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "TP-550",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "gigantec",
+        "channel": "es",
+        "source_product_id": "22800",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

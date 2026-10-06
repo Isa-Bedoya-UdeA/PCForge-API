@@ -1,0 +1,77 @@
+{
+  "opendb_id": "c0144b04-9a83-4eae-b4fe-e722aea9840a",
+  "wattage": 1250,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["WHITE"],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 3,
+    "sata": 12,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cooler Master MWE Gold V2 ATX3.0 White 1250W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Cooler Master",
+    "part_numbers": [
+      "MPE-C501-AFCAG-3G",
+      "MPE-C501-AFCAG-3GAU",
+      "MPE-C501-AFCAG-3GWO",
+      "MPE-C501-AFCAG-3GUK",
+      "MPE-C501-AFCAG-3GU2",
+      "MPE-C501-AFCAG-3GUS",
+      "MPE-C501-AFCAG-3GEU"
+    ],
+    "series": "MWE",
+    "variant": "1250W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MPE-C501-AFCAG-3G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-C501-AFCAG-3GAU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-C501-AFCAG-3GEU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-C501-AFCAG-3GU2",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-C501-AFCAG-3GUK",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-C501-AFCAG-3GUS",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPE-C501-AFCAG-3GWO",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

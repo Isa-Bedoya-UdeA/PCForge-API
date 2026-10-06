@@ -1,0 +1,39 @@
+{
+  "opendb_id": "14f36f10-64e9-473c-80b7-1b522c2665da",
+  "speed": 1600,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "capacity": 8,
+  "color": ["BLACK", "GREEN"],
+  "lighting": [],
+  "cas_latency": 11,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "metadata": {
+    "name": "Corsair ValueSelect Black / Green DDR3-1600 CL11 8GB (1x8GB)",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CMV8GX3M1C1600C11"],
+    "series": "ValueSelect",
+    "variant": "1600 CL11"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CMV8GX3M1C1600C11",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

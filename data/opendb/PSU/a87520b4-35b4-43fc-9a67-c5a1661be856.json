@@ -1,0 +1,156 @@
+{
+  "opendb_id": "a87520b4-35b4-43fc-9a67-c5a1661be856",
+  "wattage": 1500,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Titanium",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 8,
+    "sata": 16,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 1
+  },
+  "metadata": {
+    "name": "SilverStone PS-ST1500-TI 1500 W Power Supply",
+    "manufacturer": "Silverstone",
+    "part_numbers": ["PS-ST1500-TI"],
+    "series": "Strider Titanium",
+    "variant": null,
+    "releaseYear": 2017
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0844761021955",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PS-ST1500-TI",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "844761021955",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B09235XTKH",
+        "pricing_enabled": true,
+        "verified": true
+      }
+    ]
+  }
+}

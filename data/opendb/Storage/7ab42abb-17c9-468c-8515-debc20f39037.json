@@ -1,0 +1,80 @@
+{
+  "opendb_id": "7ab42abb-17c9-468c-8515-debc20f39037",
+  "capacity": 320,
+  "storage_type": "HDD",
+  "form_factor": "3.5\"",
+  "interface": "SATA 3.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Seagate BarraCuda 320GB 3.5\" HDD 7200RPM SATA",
+    "manufacturer": "Seagate",
+    "part_numbers": ["ST3320418AS", "ST31000528AS"],
+    "series": "BarraCuda",
+    "variant": "320GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0715663213475",
+        "region": "all"
+      },
+      {
+        "type": "ean",
+        "value": "0763649022320",
+        "region": "all"
+      },
+      {
+        "type": "ean",
+        "value": "7636490020872",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "ST31000528AS",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "ST3320418AS",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "715663213475",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "763649022320",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "400377",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "400377",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "400377",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

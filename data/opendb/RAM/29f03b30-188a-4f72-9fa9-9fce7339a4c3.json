@@ -1,0 +1,44 @@
+{
+  "opendb_id": "29f03b30-188a-4f72-9fa9-9fce7339a4c3",
+  "speed": 1333,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 2
+  },
+  "capacity": 4,
+  "color": ["GREEN"],
+  "lighting": [],
+  "cas_latency": 9,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "metadata": {
+    "name": "Kingston Value Green DDR3-1333 CL9 4GB (2x2GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["KVR1333D3S8N9K2", "4G"],
+    "series": "Value",
+    "variant": "1333 CL9"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "4G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "KVR1333D3S8N9K2",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

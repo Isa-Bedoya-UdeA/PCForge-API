@@ -1,0 +1,40 @@
+{
+  "opendb_id": "dc2c7d33-2e4f-48bc-9fa3-84eb8cd77924",
+  "speed": 2400,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "capacity": 8,
+  "color": ["GREY"],
+  "lighting": [],
+  "cas_latency": 16,
+  "timings": "16-16-16-39",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Patriot Viper Elite Gray DDR4-2400 CL16 8GB (1x8GB)",
+    "manufacturer": "Patriot",
+    "part_numbers": ["PVE48G240C6GY"],
+    "series": "Viper",
+    "variant": "2400 CL16"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PVE48G240C6GY",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

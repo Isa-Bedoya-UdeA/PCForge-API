@@ -1,0 +1,95 @@
+{
+  "opendb_id": "6459b1b5-d5db-4c4d-9fb0-454eb208a6fe",
+  "wattage": 700,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 3,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Deepcool PM700D Black ATX 700W Non-Modular 80+ Gold",
+    "manufacturer": "DeepCool",
+    "part_numbers": [
+      "R-PM700D-FA0B-US",
+      "R-PM700D-FA0B-AR",
+      "R-PM700D-FA0B-EU",
+      "R-PM700D-FA0B-UK",
+      "R-PM700D-FA0B-BR",
+      "R-PM700D-FA0B-WO",
+      "R-PM700D-FA0B-JP",
+      "R-PM700D-FA0B-BU",
+      "R-PM700D-FA0B-AU",
+      "R-PM700D-FA0B-CN"
+    ],
+    "series": "PM700D",
+    "variant": "700W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "R-PM700D-FA0B-AR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PM700D-FA0B-AU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PM700D-FA0B-BR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PM700D-FA0B-BU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PM700D-FA0B-CN",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PM700D-FA0B-EU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PM700D-FA0B-JP",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PM700D-FA0B-UK",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PM700D-FA0B-US",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PM700D-FA0B-WO",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "opendb_id": "ac8172ab-8bb2-4c68-96f1-501d2b9154eb",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 6,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "be quiet! Pure Power 12 M Black 1000W Fully Modular 80+ Gold Certified ATX",
+    "manufacturer": "be quiet!",
+    "part_numbers": ["BN506", "BN717", "BN345"],
+    "series": "Pure",
+    "variant": "1000W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "4260052189801",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "BN345",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "BN506",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "BN717",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "827676006620",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B0BVYCXQY4",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "computer-orbit",
+        "channel": "uk",
+        "source_product_id": "BN345",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "1HU-004H-000S1",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "1HU-004H-000S1",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

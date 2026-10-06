@@ -1,0 +1,28 @@
+{
+  "opendb_id": "4d21f310-9531-4bb6-b140-b8ad919f079f",
+  "capacity": 120,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "SK Hynix SL308 120GB 2.5\" SSD SATA",
+    "manufacturer": "SK Hynix",
+    "part_numbers": ["HFS120G32TND-N1A2A"],
+    "series": "SL308",
+    "variant": "120GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "HFS120G32TND-N1A2A",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "30f4c15a-7e0a-4b78-bf1f-ae3f2693ed84",
+  "capacity": 512,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "ADATA SU760 512GB SSD 2.5\" SATA",
+    "manufacturer": "ADATA",
+    "part_numbers": ["ASU760SS-512GT-C"],
+    "series": "SU760",
+    "variant": "512GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ASU760SS-512GT-C",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

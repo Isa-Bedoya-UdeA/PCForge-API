@@ -1,0 +1,39 @@
+{
+  "opendb_id": "de8ae613-3b4e-43d0-b6a2-eaadc3a3bbcb",
+  "wattage": 550,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cooler Master V550 ATX 550W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Cooler Master",
+    "part_numbers": ["RS550-AFBAG1-US"],
+    "series": "V550",
+    "variant": "550W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RS550-AFBAG1-US",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "e2597098-7090-47fd-bfcd-08032a9f4200",
+  "capacity": 960,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Seagate BarraCuda Q1 960GB SSD 2.5\" SATA",
+    "manufacturer": "Seagate",
+    "part_numbers": ["ZA960CV1A001"],
+    "series": "BarraCuda",
+    "variant": "960GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ZA960CV1A001",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

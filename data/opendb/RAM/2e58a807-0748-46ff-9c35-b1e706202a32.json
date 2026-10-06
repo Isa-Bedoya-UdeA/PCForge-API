@@ -1,0 +1,39 @@
+{
+  "opendb_id": "2e58a807-0748-46ff-9c35-b1e706202a32",
+  "speed": 3000,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 4,
+    "capacity_gb": 8
+  },
+  "capacity": 32,
+  "color": ["BLACK", "WHITE"],
+  "lighting": [],
+  "cas_latency": 16,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "ADATA XPG GAMMIX D10 Black / White DDR4-3000 CL16 32GB (4x8GB)",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX4U300038G16-QBG"],
+    "series": "XPG",
+    "variant": "3000 CL16"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AX4U300038G16-QBG",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

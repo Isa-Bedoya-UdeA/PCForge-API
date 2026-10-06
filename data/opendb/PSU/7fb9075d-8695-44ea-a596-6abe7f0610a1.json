@@ -1,0 +1,39 @@
+{
+  "opendb_id": "7fb9075d-8695-44ea-a596-6abe7f0610a1",
+  "wattage": 450,
+  "form_factor": "ATX",
+  "efficiency_rating": null,
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 4,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Rosewill Stallion ATX 450W Non-Modular",
+    "manufacturer": "Rosewill",
+    "part_numbers": ["RD450-2-DB"],
+    "series": "Stallion",
+    "variant": "450W "
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RD450-2-DB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

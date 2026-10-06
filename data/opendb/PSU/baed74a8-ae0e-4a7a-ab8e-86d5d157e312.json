@@ -1,0 +1,44 @@
+{
+  "opendb_id": "baed74a8-ae0e-4a7a-ab8e-86d5d157e312",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 10,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cougar GEX X2 ATX 850W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Cougar",
+    "part_numbers": ["GEX X2 850", "31GT085001P01"],
+    "series": "GEX",
+    "variant": "850W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "31GT085001P01",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "GEX X2 850",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

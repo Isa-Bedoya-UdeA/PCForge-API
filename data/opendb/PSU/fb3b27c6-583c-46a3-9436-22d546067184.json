@@ -1,0 +1,39 @@
+{
+  "opendb_id": "fb3b27c6-583c-46a3-9436-22d546067184",
+  "wattage": 400,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+",
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 5,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Corsair VS400 400W Non-Modular 80+",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CP-9020117-NA"],
+    "series": "VS400",
+    "variant": "400W 80+"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CP-9020117-NA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

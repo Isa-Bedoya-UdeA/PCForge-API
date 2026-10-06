@@ -1,0 +1,40 @@
+{
+  "opendb_id": "21ca647a-5cfa-4d85-a17f-d036ff2bf802",
+  "speed": 4800,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["WHITE"],
+  "lighting": [],
+  "cas_latency": 40,
+  "timings": "40-40-40-77",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "metadata": {
+    "name": "GeIL Polaris RGB White DDR5-4800 CL40 32GB (2x16GB)",
+    "manufacturer": "GeIL",
+    "part_numbers": ["GOSW532GB4800C40DC"],
+    "series": "Polaris",
+    "variant": "4800 CL40"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GOSW532GB4800C40DC",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "f5956efe-334c-4367-8fdb-d9981e4f1468",
+  "capacity": 320,
+  "storage_type": "HDD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 3.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Seagate Momentus 320GB HDD 2.5\" SATA",
+    "manufacturer": "Seagate",
+    "part_numbers": ["ST320LT020"],
+    "series": "Momentus",
+    "variant": "320GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ST320LT020",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "opendb_id": "72285ba1-cb58-43d2-8c0c-8e8229def94b",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 3070 LHR",
+  "core_count": 5888,
+  "core_base_clock": 1500,
+  "core_boost_clock": 1755,
+  "memory": 8,
+  "memory_type": "GDDR6",
+  "effective_memory_clock": 14000,
+  "memory_bus": 0,
+  "tdp": 220,
+  "interface": "PCIe x16",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 232,
+  "total_slot_width": 2,
+  "cooling": "2 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 2,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 0,
+    "hdmi_2_0": 1,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "Zotac GAMING Twin Edge OC GeForce RTX 3070 LHR 8GB GDDR6 Black",
+    "manufacturer": "Zotac",
+    "part_numbers": ["ZT-A30700H-10PLHR"],
+    "series": "GeForce RTX 3070 LHR",
+    "variant": "Zotac"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0810012082440",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "ZT-A30700H-10PLHR",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "810012082440",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "adorama",
+        "channel": "us",
+        "source_product_id": "ZTA30700H10P",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B097YY2NL2",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "2543609",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "2543609",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "2543609",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "550064922",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

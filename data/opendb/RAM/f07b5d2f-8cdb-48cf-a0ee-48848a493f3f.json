@@ -1,0 +1,40 @@
+{
+  "opendb_id": "f07b5d2f-8cdb-48cf-a0ee-48848a493f3f",
+  "speed": 5200,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["BLACK"],
+  "lighting": [],
+  "cas_latency": 42,
+  "timings": "42-42-42-84",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP Elite Plus Black DDR5-5200 CL42 16GB (2x8GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["TPBD516G5200HC42DC016"],
+    "series": "Elite",
+    "variant": "5200 CL42"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "TPBD516G5200HC42DC016",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

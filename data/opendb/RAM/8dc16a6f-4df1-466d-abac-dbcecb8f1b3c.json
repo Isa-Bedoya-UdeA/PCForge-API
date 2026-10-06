@@ -1,0 +1,56 @@
+{
+  "opendb_id": "8dc16a6f-4df1-466d-abac-dbcecb8f1b3c",
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 32
+  },
+  "capacity": 32,
+  "color": ["WHITE"],
+  "lighting": ["None"],
+  "cas_latency": 16,
+  "timings": "16-18-18-38",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Timetec PINNACLE Konduit White DDR4-3200 CL16 32GB (1x32GB)",
+    "manufacturer": "Timetec",
+    "part_numbers": ["PKMD4U32C16CNHW32G"],
+    "series": "PINNACLE Konduit",
+    "variant": "3200 CL16",
+    "manufacturer_color": "White"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PKMD4U32C16CNHW32G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "0RN-00A3-001G7",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "0RN-00A3-001G7",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

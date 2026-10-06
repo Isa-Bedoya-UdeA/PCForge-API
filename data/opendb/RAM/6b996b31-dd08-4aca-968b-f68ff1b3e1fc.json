@@ -1,0 +1,31 @@
+{
+  "opendb_id": "6b996b31-dd08-4aca-968b-f68ff1b3e1fc",
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": [],
+  "lighting": [],
+  "cas_latency": 14,
+  "timings": null,
+  "voltage": 0,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "height": 0,
+  "metadata": {
+    "name": "RAM Mushkin D4 3600 16GB C14 RedlineST K2",
+    "manufacturer": "Mushkin",
+    "part_numbers": ["MRF4U360EKKT8GX2"],
+    "series": "RedlineST K2",
+    "variant": null,
+    "releaseYear": 0
+  },
+  "general_product_information": {}
+}

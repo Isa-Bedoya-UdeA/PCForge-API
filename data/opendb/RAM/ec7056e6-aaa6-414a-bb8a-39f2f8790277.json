@@ -1,0 +1,40 @@
+{
+  "opendb_id": "ec7056e6-aaa6-414a-bb8a-39f2f8790277",
+  "speed": 6800,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 48
+  },
+  "capacity": 48,
+  "color": ["WHITE"],
+  "lighting": [],
+  "cas_latency": 36,
+  "timings": "36-44-44-86",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "metadata": {
+    "name": "GeIL EVO RGB White DDR5-6800 CL36 48GB (1x48GB)",
+    "manufacturer": "GeIL",
+    "part_numbers": ["GESW548GB6800C36BSC"],
+    "series": "EVO",
+    "variant": "6800 CL36"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GESW548GB6800C36BSC",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

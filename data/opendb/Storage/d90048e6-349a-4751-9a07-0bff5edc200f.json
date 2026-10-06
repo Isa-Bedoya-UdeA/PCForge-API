@@ -1,0 +1,28 @@
+{
+  "opendb_id": "d90048e6-349a-4751-9a07-0bff5edc200f",
+  "capacity": 256,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 SATA",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "SanDisk X400 256GB SSD M.2-2280 SATA",
+    "manufacturer": "SanDisk",
+    "part_numbers": ["SD8SN8U-256G-2000"],
+    "series": "X400",
+    "variant": "256GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SD8SN8U-256G-2000",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "opendb_id": "541bea7b-60f1-41a4-ae2a-2a6e26e067ed",
+  "wattage": 1475,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 199,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 16,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Thermaltake Toughpower XT 1475W 80+ Gold Certified Semi-Modular",
+    "manufacturer": "Thermaltake",
+    "part_numbers": ["TPX-1475M", "TPX-1475MPCGAU"],
+    "series": "Toughpower",
+    "variant": "1475W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "TPX-1475M",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "TPX-1475MPCGAU",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

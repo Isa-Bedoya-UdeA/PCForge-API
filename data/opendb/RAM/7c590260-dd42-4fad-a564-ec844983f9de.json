@@ -1,0 +1,44 @@
+{
+  "opendb_id": "7c590260-dd42-4fad-a564-ec844983f9de",
+  "speed": 1866,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "capacity": 8,
+  "color": ["BLACK"],
+  "lighting": [],
+  "cas_latency": 11,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Kingston HyperX Fury Black DDR3-1866 CL11 8GB (1x8GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["HX318LC11FB", "8"],
+    "series": "HyperX",
+    "variant": "1866 CL11"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "8",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "HX318LC11FB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

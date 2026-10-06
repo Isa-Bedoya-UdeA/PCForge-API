@@ -1,0 +1,44 @@
+{
+  "opendb_id": "ff4772f6-e79e-4c85-9d03-017c18da7aca",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 175,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 10,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "be quiet! Power Zone ATX 1000W Fully Modular 80+ Bronze Certified",
+    "manufacturer": "be quiet!",
+    "part_numbers": ["BN213", "BN613"],
+    "series": "Power",
+    "variant": "1000W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BN213",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "BN613",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

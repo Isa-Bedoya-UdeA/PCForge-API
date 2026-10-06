@@ -1,0 +1,39 @@
+{
+  "opendb_id": "6ece85e9-4448-42cc-9088-223629edc372",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 9,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Antec High 850W Semi-Modular 80+ Gold",
+    "manufacturer": "Antec",
+    "part_numbers": ["HCP-850"],
+    "series": "High",
+    "variant": "850W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "HCP-850",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

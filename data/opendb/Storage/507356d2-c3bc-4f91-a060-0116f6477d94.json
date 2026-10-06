@@ -1,0 +1,28 @@
+{
+  "opendb_id": "507356d2-c3bc-4f91-a060-0116f6477d94",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Toshiba XG3 1TB SSD M.2-2280 PCIe 3.0 x4 NVMe",
+    "manufacturer": "Toshiba",
+    "part_numbers": ["THNSN51T02DU7"],
+    "series": "XG3",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "THNSN51T02DU7",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

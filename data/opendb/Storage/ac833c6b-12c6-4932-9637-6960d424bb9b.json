@@ -1,0 +1,102 @@
+{
+  "opendb_id": "ac833c6b-12c6-4932-9637-6960d424bb9b",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "TEAMGROUP MP33 1TB M.2-2280 SSD PCIe 3.0 x4 NVMe",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["TM8FP6001T0C101", "TEAUSDX128GIV30A103", "TESDXC128GIV3069"],
+    "series": "MP33",
+    "variant": "1000GB",
+    "releaseYear": 2020,
+    "last_manually_spec_verified_at": "2026-03-21T20:50:06.662Z"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.teamgroupinc.com/en/product-detail/ssd/TEAMGROUP/mp33/mp33-TM8FP6001T0C101/"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0765441047969",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "TEAUSDX128GIV30A103",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "TESDXC128GIV3069",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "TM8FP6001T0C101",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "765441047969",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "back-to-the-office",
+        "channel": "uk",
+        "source_product_id": "56948938834302",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "ccl",
+        "channel": "uk",
+        "source_product_id": "SSD1797",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "2280496",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "computer-orbit",
+        "channel": "uk",
+        "source_product_id": "TEAUSDX128GIV30A103",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "2280496",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "quzo",
+        "channel": "uk",
+        "source_product_id": "416199",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "2280496",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

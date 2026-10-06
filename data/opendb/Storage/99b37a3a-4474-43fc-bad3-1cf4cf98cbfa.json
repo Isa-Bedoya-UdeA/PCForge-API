@@ -1,0 +1,28 @@
+{
+  "opendb_id": "99b37a3a-4474-43fc-bad3-1cf4cf98cbfa",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Addlink S90 Lite 1TB SSD M.2 PCIe 4.0 NVMe",
+    "manufacturer": "Addlink",
+    "part_numbers": ["ad1TBS90LTM2P"],
+    "series": "S90",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ad1TBS90LTM2P",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

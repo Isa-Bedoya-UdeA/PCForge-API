@@ -1,0 +1,39 @@
+{
+  "opendb_id": "8f7f4170-1563-4d19-9297-7d9979979dec",
+  "speed": 1600,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "204-pin SO-DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["BLACK", "GREEN"],
+  "lighting": [],
+  "cas_latency": 11,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "metadata": {
+    "name": "PNY NHS Black / Green SODIMM DDR3-1600 CL11 16GB (2x8GB)",
+    "manufacturer": "PNY",
+    "part_numbers": ["MN16GK2D31600LV"],
+    "series": "NHS",
+    "variant": "1600 CL11"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MN16GK2D31600LV",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

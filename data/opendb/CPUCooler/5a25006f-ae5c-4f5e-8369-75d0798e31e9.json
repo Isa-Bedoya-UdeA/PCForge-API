@@ -1,0 +1,48 @@
+{
+  "opendb_id": "5a25006f-ae5c-4f5e-8369-75d0798e31e9",
+  "min_fan_rpm": 1500,
+  "min_noise_level": 25.6,
+  "color": ["BLACK", "GREY"],
+  "lighting": ["None"],
+  "height": 157,
+  "cpu_sockets": [
+    "AM4",
+    "AM5",
+    "LGA 1150",
+    "LGA 1151",
+    "LGA 1155",
+    "LGA 1156",
+    "LGA 1200",
+    "LGA 1700",
+    "LGA 1851",
+    "LGA 2011",
+    "LGA 2066"
+  ],
+  "water_cooled": false,
+  "fanless": false,
+  "fan_size": 120,
+  "fan_quantity": 2,
+  "metadata": {
+    "name": "Thermalright Phantom Spirit Air 157mm Black / Silver",
+    "manufacturer": "Thermalright",
+    "part_numbers": ["PS120                                                    Phantom Spirit 120"],
+    "series": "Phantom Spirit",
+    "variant": "120",
+    "releaseYear": 2023,
+    "manufacturer_color": "Black / Silver"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.thermalright.com/product/phantom-spirit-120/"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PS120                                                    Phantom Spirit 120",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "opendb_id": "3dbb8855-3109-42fe-b361-26c3e673542b",
+  "speed": 3000,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": [],
+  "lighting": [],
+  "cas_latency": 16,
+  "timings": null,
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "height": 0,
+  "metadata": {
+    "name": "OLOy DDR4 RAM 16GB (2x8GB) 3000 MHz CL16 1.35V 288-Pin Desktop Gaming UDIMM",
+    "manufacturer": "OLOy",
+    "part_numbers": ["MD4U0830160BHWDA"],
+    "series": null,
+    "variant": "3000 MHz CL16",
+    "releaseYear": 0
+  },
+  "general_product_information": {}
+}

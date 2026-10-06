@@ -1,0 +1,41 @@
+{
+  "opendb_id": "f3def9a6-da97-4468-9ab6-670ad6c14360",
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "cas_latency": 40,
+  "timings": "40-40-40-84",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP T-Force Vulcan Black DDR5-5600 CL40 16GB (2x8GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["FLBD516G5600HC40BDC01"],
+    "series": "T-Force Vulcan",
+    "variant": "5600 CL40",
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "FLBD516G5600HC40BDC01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

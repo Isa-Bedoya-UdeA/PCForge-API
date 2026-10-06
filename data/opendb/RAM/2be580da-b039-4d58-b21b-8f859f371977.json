@@ -1,0 +1,39 @@
+{
+  "opendb_id": "2be580da-b039-4d58-b21b-8f859f371977",
+  "speed": 4133,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["WHITE"],
+  "lighting": [],
+  "cas_latency": 19,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "ADATA XPG SPECTRIX D50 White DDR4-4133 CL19 32GB (2x16GB)",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX4U413316G19J-DW50"],
+    "series": "XPG",
+    "variant": "4133 CL19"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AX4U413316G19J-DW50",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

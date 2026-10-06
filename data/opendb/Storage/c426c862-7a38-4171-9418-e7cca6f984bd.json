@@ -1,0 +1,29 @@
+{
+  "opendb_id": "c426c862-7a38-4171-9418-e7cca6f984bd",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "cache": null,
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "ADATA Legend 750 1TB SSD M.2-2280 PCIe 3.0 x4 NVMe",
+    "manufacturer": "ADATA",
+    "part_numbers": ["ALEG-750-1TCS"],
+    "series": "Legend",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ALEG-750-1TCS",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

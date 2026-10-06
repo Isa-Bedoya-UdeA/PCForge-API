@@ -1,0 +1,33 @@
+{
+  "opendb_id": "35a5c482-eb15-4d2a-87b6-458ef6cc8602",
+  "capacity": 60,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston SSDNow V300 60GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SV300S37A", "60G"],
+    "series": "SSDNow",
+    "variant": "60GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "60G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SV300S37A",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

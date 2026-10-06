@@ -1,0 +1,55 @@
+{
+  "opendb_id": "3fffdbb8-5da1-4159-8df2-6b3b56ad0d6b",
+  "series": "AMD FX",
+  "microarchitecture": "Piledriver",
+  "coreFamily": "Vishera",
+  "socket": "AM3+",
+  "cores": {
+    "total": 8,
+    "performance": 8,
+    "threads": 8
+  },
+  "clocks": {
+    "performance": {
+      "base": 4.4,
+      "boost": 4.7
+    }
+  },
+  "cache": {
+    "l2": 8,
+    "l3": 8
+  },
+  "specifications": {
+    "tdp": 220,
+    "integratedGraphics": {
+      "model": "None"
+    },
+    "eccSupport": false,
+    "includesCooler": true,
+    "packaging": "Boxed",
+    "lithography": "32 nm",
+    "simultaneousMultithreading": false,
+    "memory": {
+      "maxSupport": 0,
+      "types": []
+    }
+  },
+  "metadata": {
+    "name": "AMD FX 9370 4.4 GHz 8-Core AM3+",
+    "manufacturer": "AMD",
+    "part_numbers": ["FD9370FHHKWOX"],
+    "series": "AMD FX"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "FD9370FHHKWOX",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "opendb_id": "2169450e-26a9-4f59-bd02-7868fb68f575",
+  "wattage": 750,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Silverstone VIVA Black 750W Non-Modular 80+ Gold Certified ATX",
+    "manufacturer": "Silverstone",
+    "part_numbers": ["SST-VA750-G"],
+    "series": "VIVA",
+    "variant": "750W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SST-VA750-G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

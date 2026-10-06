@@ -1,0 +1,28 @@
+{
+  "opendb_id": "83164a10-afa8-487e-8ac4-5b398236abe4",
+  "capacity": 64,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Crucial M4 64GB SSD 2.5\" SATA",
+    "manufacturer": "Crucial",
+    "part_numbers": ["CT064M4SSD2"],
+    "series": "M4",
+    "variant": "64GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CT064M4SSD2",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

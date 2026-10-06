@@ -1,0 +1,33 @@
+{
+  "opendb_id": "097f4884-ad64-4c84-bec3-f81f83116e6b",
+  "capacity": 2000,
+  "storage_type": "SSHD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Seagate FireCuda Compute 2TB Hybrid 2.5\" 5400 RPM SATA",
+    "manufacturer": "Seagate",
+    "part_numbers": ["ST2000LXZ01", "LX001"],
+    "series": "FireCuda",
+    "variant": "2000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "LX001",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "ST2000LXZ01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

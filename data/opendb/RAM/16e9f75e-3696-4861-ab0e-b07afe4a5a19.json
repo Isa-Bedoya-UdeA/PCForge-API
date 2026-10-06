@@ -1,0 +1,39 @@
+{
+  "opendb_id": "16e9f75e-3696-4861-ab0e-b07afe4a5a19",
+  "speed": 1600,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "204-pin SO-DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["BLACK", "GREEN"],
+  "lighting": [],
+  "cas_latency": 11,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "metadata": {
+    "name": "PNY MN16384KD3-1600-LV Black / Green DDR3-1600 SODIMM CL11 16GB (2x8GB)",
+    "manufacturer": "PNY",
+    "part_numbers": ["MN16384KD3-1600-LV"],
+    "series": "MN16384KD3-1600-LV",
+    "variant": "1600 CL11"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MN16384KD3-1600-LV",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

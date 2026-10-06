@@ -1,0 +1,28 @@
+{
+  "opendb_id": "a2113c3c-b48d-4994-828b-e9e5c60b2cf2",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "mSATA",
+  "interface": "mSATA",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Samsung 860 Evo 1TB SSD mSATA SATA",
+    "manufacturer": "Samsung",
+    "part_numbers": ["MZ-M6E1T0BW"],
+    "series": "860",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MZ-M6E1T0BW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

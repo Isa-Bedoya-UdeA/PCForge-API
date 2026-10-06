@@ -1,0 +1,28 @@
+{
+  "opendb_id": "f850a5eb-181f-4595-8998-54ff7fd546a2",
+  "capacity": 960,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "ADATA SU655 960GB SSD 2.5\" SATA",
+    "manufacturer": "ADATA",
+    "part_numbers": ["ASU655SS-960GT-C"],
+    "series": "SU655",
+    "variant": "960GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ASU655SS-960GT-C",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "opendb_id": "24cd0c12-f4b0-458e-9cc5-1fb63e5778ee",
+  "wattage": 1250,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 3,
+    "sata": 8,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Super Flower Zillion FG 1250W Fully Modular 80+ Gold",
+    "manufacturer": "Super Flower",
+    "part_numbers": ["SF-1250Z12FG"],
+    "series": "Zillion",
+    "variant": "1250W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SF-1250Z12FG",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "1HU-024C-00076",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "1HU-024C-00076",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

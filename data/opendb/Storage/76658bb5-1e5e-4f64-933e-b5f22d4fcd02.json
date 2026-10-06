@@ -1,0 +1,33 @@
+{
+  "opendb_id": "76658bb5-1e5e-4f64-933e-b5f22d4fcd02",
+  "capacity": 256,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston KC600B 256GB SSD 2.5\" SATA",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SKC600B", "256G"],
+    "series": "KC600B",
+    "variant": "256GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "256G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SKC600B",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

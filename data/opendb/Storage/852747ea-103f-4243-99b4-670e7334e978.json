@@ -1,0 +1,28 @@
+{
+  "opendb_id": "852747ea-103f-4243-99b4-670e7334e978",
+  "capacity": 250,
+  "storage_type": "SSD",
+  "form_factor": "mSATA",
+  "interface": "mSATA",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Samsung 840 Evo 250GB SSD mSATA SATA",
+    "manufacturer": "Samsung",
+    "part_numbers": ["MZ-MTE250BW"],
+    "series": "840",
+    "variant": "250GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MZ-MTE250BW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

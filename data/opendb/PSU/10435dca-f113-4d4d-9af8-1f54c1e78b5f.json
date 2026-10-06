@@ -1,0 +1,97 @@
+{
+  "opendb_id": "10435dca-f113-4d4d-9af8-1f54c1e78b5f",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 3,
+    "sata": 6,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "ADATA XPG Core Reactor II VE 850W Fully Modular 80+ Gold Certified",
+    "manufacturer": "ADATA",
+    "part_numbers": [
+      "COREREACTORIIVE850G-BKCUS",
+      "COREREACTORIIVE850G-BKCBR",
+      "COREREACTORIIVE850G-BKCJP",
+      "COREREACTORIIVE850G-BKCEU",
+      "COREREACTORIIVE850G-BKCAU",
+      "COREREACTORIIVE850G-BKCAR",
+      "COREREACTORIIVE850G-BKCTW",
+      "COREREACTORIIVE850G-BKCZA",
+      "COREREACTORIIVE850G-BKCGB"
+    ],
+    "series": "XPG",
+    "variant": "850W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "COREREACTORIIVE850G-BKCAR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTORIIVE850G-BKCAU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTORIIVE850G-BKCBR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTORIIVE850G-BKCEU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTORIIVE850G-BKCGB",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTORIIVE850G-BKCJP",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTORIIVE850G-BKCTW",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTORIIVE850G-BKCUS",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTORIIVE850G-BKCZA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "mwave",
+        "channel": "au",
+        "source_product_id": "AC80045",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

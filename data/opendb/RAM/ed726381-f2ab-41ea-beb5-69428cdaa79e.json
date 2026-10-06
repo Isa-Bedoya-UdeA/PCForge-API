@@ -1,0 +1,39 @@
+{
+  "opendb_id": "ed726381-f2ab-41ea-beb5-69428cdaa79e",
+  "speed": 1866,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 4,
+    "capacity_gb": 4
+  },
+  "capacity": 16,
+  "color": ["BLACK", "BLUE"],
+  "lighting": [],
+  "cas_latency": 10,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "PNY Anarchy Black / Blue DDR3-1866 CL10 16GB (4x4GB)",
+    "manufacturer": "PNY",
+    "part_numbers": ["MD16GK4D3186610AB-Z"],
+    "series": "Anarchy",
+    "variant": "1866 CL10"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MD16GK4D3186610AB-Z",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

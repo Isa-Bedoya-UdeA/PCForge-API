@@ -1,0 +1,77 @@
+{
+  "opendb_id": "bd9fd5a5-0c0b-4129-b90c-61222af880b9",
+  "wattage": 550,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 3,
+    "sata": 6,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Deepcool PL550D Black ATX 550W Non-Modular 80+ Bronze Certified",
+    "manufacturer": "DeepCool",
+    "part_numbers": [
+      "R-PL550D-FC0B-US",
+      "R-PL550D-FC0B-UK",
+      "R-PL550D-FC0B-IN",
+      "R-PL550D-FC0B-WO",
+      "R-PL550D-FC0B-JP",
+      "R-PL550D-FC0B-AU",
+      "R-PL550D-FC0B-EU"
+    ],
+    "series": "PL550D",
+    "variant": "550W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "R-PL550D-FC0B-AU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PL550D-FC0B-EU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PL550D-FC0B-IN",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PL550D-FC0B-JP",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PL550D-FC0B-UK",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PL550D-FC0B-US",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PL550D-FC0B-WO",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

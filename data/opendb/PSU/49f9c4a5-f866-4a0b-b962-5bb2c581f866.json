@@ -1,0 +1,39 @@
+{
+  "opendb_id": "49f9c4a5-f866-4a0b-b962-5bb2c581f866",
+  "wattage": 535,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Semi-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Raidmax Thunder RGB 535W Semi-Modular 80+ Bronze Certified",
+    "manufacturer": "Raidmax",
+    "part_numbers": ["RX-535AP-R"],
+    "series": "Thunder",
+    "variant": "535W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RX-535AP-R",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

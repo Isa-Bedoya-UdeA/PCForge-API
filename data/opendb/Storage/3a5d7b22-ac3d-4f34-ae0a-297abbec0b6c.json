@@ -1,0 +1,28 @@
+{
+  "opendb_id": "3a5d7b22-ac3d-4f34-ae0a-297abbec0b6c",
+  "capacity": 256,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "ADATA SU760 256GB SSD 2.5\" SATA",
+    "manufacturer": "ADATA",
+    "part_numbers": ["ASU760SS-256GT-C"],
+    "series": "SU760",
+    "variant": "256GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ASU760SS-256GT-C",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "opendb_id": "0d8cc17c-78d3-40e2-94d8-2e56cb064be1",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 175,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 12,
+    "molex_4_pin": 8,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Enermax ERV1000EWT-G 1000W 80+ Gold Certified Semi-Modular",
+    "manufacturer": "Enermax",
+    "part_numbers": ["ERV1000EWT-G"],
+    "series": "ERV1000EWT-G",
+    "variant": "1000W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ERV1000EWT-G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

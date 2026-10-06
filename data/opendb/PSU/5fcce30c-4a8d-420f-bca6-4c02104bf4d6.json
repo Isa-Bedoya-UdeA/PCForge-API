@@ -1,0 +1,39 @@
+{
+  "opendb_id": "5fcce30c-4a8d-420f-bca6-4c02104bf4d6",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Non-Modular",
+  "color": ["BLACK", "BLUE"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 3,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "SeaSonic G12 GC 850W Non-Modular 80+ Gold",
+    "manufacturer": "SeaSonic",
+    "part_numbers": ["G12-GC-850"],
+    "series": "G12",
+    "variant": "850W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "G12-GC-850",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

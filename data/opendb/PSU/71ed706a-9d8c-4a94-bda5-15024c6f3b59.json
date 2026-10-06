@@ -1,0 +1,44 @@
+{
+  "opendb_id": "71ed706a-9d8c-4a94-bda5-15024c6f3b59",
+  "wattage": 1200,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Titanium",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 200,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 10,
+    "sata": 16,
+    "molex_4_pin": 12,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cooler Master MasterWatt Maker ATX 1200W Fully Modular 80+ Titanium Certified",
+    "manufacturer": "Cooler Master",
+    "part_numbers": ["MPZ-C001-AFBAT", "MPZ-C002-AFBAT-US"],
+    "series": "MasterWatt",
+    "variant": "1200W Titanium"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MPZ-C001-AFBAT",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPZ-C002-AFBAT-US",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

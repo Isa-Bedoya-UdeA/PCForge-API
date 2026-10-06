@@ -1,0 +1,28 @@
+{
+  "opendb_id": "2c5340dc-81d8-432b-8378-dd57b94d5cda",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "PCIe",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Intel Optane 905P 1.5 TB SSD PCIe NVMe",
+    "manufacturer": "Intel",
+    "part_numbers": ["SSDPED1D015TAX1"],
+    "series": "Optane",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SSDPED1D015TAX1",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

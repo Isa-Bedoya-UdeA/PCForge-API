@@ -1,0 +1,39 @@
+{
+  "opendb_id": "e0c41e1e-4920-4f1f-aa82-07688851f75d",
+  "wattage": 450,
+  "form_factor": "ATX",
+  "efficiency_rating": null,
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 149,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 4,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Antec VP ATX 450W Non-Modular",
+    "manufacturer": "Antec",
+    "part_numbers": ["VP-450"],
+    "series": "VP",
+    "variant": "450W "
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "VP-450",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

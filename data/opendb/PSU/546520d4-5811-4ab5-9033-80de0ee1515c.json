@@ -1,0 +1,52 @@
+{
+  "opendb_id": "546520d4-5811-4ab5-9033-80de0ee1515c",
+  "wattage": 550,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 1,
+    "sata": 5,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Thermalright TB550S Black ATX 550W Non-Modular 80+ Bronze Certified",
+    "manufacturer": "Thermalright",
+    "part_numbers": ["TB-550S", "TR-TB550S"],
+    "series": "TB550S",
+    "variant": "550W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "TB-550S",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "TR-TB550S",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "computer-orbit",
+        "channel": "uk",
+        "source_product_id": "TB-550S",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

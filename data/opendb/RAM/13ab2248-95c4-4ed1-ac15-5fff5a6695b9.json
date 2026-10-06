@@ -1,0 +1,56 @@
+{
+  "opendb_id": "13ab2248-95c4-4ed1-ac15-5fff5a6695b9",
+  "speed": 6400,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK"],
+  "lighting": [],
+  "cas_latency": 40,
+  "timings": "40-40-40-84",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP T-Create Expert DDR5-6400 CL40 32GB (2x16GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["CTCED532G6400HC40BDC01"],
+    "series": "T-Create Expert",
+    "variant": "6400 CL40",
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CTCED532G6400HC40BDC01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16820985002",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16820985002",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

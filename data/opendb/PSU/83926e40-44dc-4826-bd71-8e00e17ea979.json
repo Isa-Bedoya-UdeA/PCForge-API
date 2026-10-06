@@ -1,0 +1,44 @@
+{
+  "opendb_id": "83926e40-44dc-4826-bd71-8e00e17ea979",
+  "wattage": 300,
+  "form_factor": "SFX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 100,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 3,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Silverstone SFX Black Certified SFX 300W Non-Modular 80+ Bronze Certified",
+    "manufacturer": "Silverstone",
+    "part_numbers": ["ST30SF", "SST-ST30SF"],
+    "series": "SFX",
+    "variant": "300W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SST-ST30SF",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "ST30SF",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

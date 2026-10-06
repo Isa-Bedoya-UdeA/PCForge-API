@@ -1,0 +1,39 @@
+{
+  "opendb_id": "43c71660-76d8-4860-bc11-328338fde3fd",
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 6,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Super Flower Legion GX Pro Black 650W Semi-Modular 80+ Gold Certified",
+    "manufacturer": "Super Flower",
+    "part_numbers": ["SF- 650P14XE"],
+    "series": "Legion",
+    "variant": "650W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SF- 650P14XE",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

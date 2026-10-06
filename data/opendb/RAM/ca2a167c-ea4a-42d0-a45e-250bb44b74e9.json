@@ -1,0 +1,168 @@
+{
+  "opendb_id": "ca2a167c-ea4a-42d0-a45e-250bb44b74e9",
+  "speed": 6000,
+  "ram_type": "DDR5",
+  "profile_support": ["XMP", "EXPO"],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 4,
+    "capacity_gb": 64
+  },
+  "capacity": 256,
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "cas_latency": 36,
+  "timings": "36-44-44-96",
+  "voltage": 1.25,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "height": 33,
+  "metadata": {
+    "name": "G.Skill Flare X5 256GB (4x64GB) DDR5 6000 CL36 Black",
+    "manufacturer": "G.SKILL",
+    "part_numbers": [],
+    "series": "Flare X5",
+    "releaseYear": 2025,
+    "manufacturer_color": "Black",
+    "last_manually_spec_verified_at": "2026-04-05T15:55:01.480Z"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.gskill.com/specification/165/396/1750237944/F5-6000J3644D64GX4-FX5-Specification"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0848354050544",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "F5-6000J3644D64GX4-FX5",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "848354050544",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B0FFKFCLLL",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "17193309167",
+        "pricing_enabled": true,
+        "verified": true
+      }
+    ]
+  }
+}

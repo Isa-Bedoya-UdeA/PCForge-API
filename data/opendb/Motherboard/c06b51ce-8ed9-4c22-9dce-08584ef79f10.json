@@ -1,0 +1,94 @@
+{
+  "opendb_id": "c06b51ce-8ed9-4c22-9dce-08584ef79f10",
+  "socket": "AM5",
+  "form_factor": "Micro ATX",
+  "chipset": "AMD B840",
+  "memory": {
+    "max": 256,
+    "ram_type": "DDR5",
+    "slots": 4
+  },
+  "color": ["BLACK"],
+  "lighting": [],
+  "pcie_slots": [
+    {
+      "gen": "4.0",
+      "quantity": 2,
+      "lanes": 16
+    }
+  ],
+  "m2_slots": [
+    {
+      "size": "2280",
+      "key": "M",
+      "interface": "PCIe 4.0 x4"
+    },
+    {
+      "size": "2580-25110",
+      "key": "M",
+      "interface": "PCIe 4.0 x4"
+    },
+    {
+      "size": "2280",
+      "key": "M",
+      "interface": "PCIe 4.0 x4"
+    }
+  ],
+  "storage_devices": {
+    "sata_6_gb_s": 0,
+    "sata_3_gb_s": 0,
+    "u2": 0
+  },
+  "onboard_ethernet": [
+    {
+      "speed": "2.5 Gb/s",
+      "controller": "Realtek"
+    }
+  ],
+  "usb_headers": {
+    "usb_2_0": 2,
+    "usb_3_2_gen_1": 1,
+    "usb_3_2_gen_2": 1,
+    "usb_3_2_gen_2x2": 0,
+    "usb_4": 0
+  },
+  "power_connectors": {
+    "cpu_power": []
+  },
+  "ecc_support": false,
+  "raid_support": false,
+  "back_connect_connectors": false,
+  "bios_features": {
+    "flashback": false,
+    "clear_cmos": false
+  },
+  "audio": {
+    "chipset": "Realtek",
+    "channels": "7.1"
+  },
+  "back_panel_ports": ["1 x 2.5 Gb/s Ports (Realtek)"],
+  "metadata": {
+    "name": "Gigabyte B840M DS3H WIFI6 AM5 DDR5 Micro ATX",
+    "manufacturer": "Gigabyte",
+    "part_numbers": ["B840M DS3H WF6", "B840M DS3H WIFI6"],
+    "series": "B840M",
+    "variant": ""
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "B840M DS3H WF6",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "B840M DS3H WIFI6",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

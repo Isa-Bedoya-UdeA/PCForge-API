@@ -1,0 +1,28 @@
+{
+  "opendb_id": "dd967c8a-7a26-4a7f-addc-05f186a6fd21",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Seagate Beskar Ingot Drive Special Edition FireCuda 1TB SSD M.2-2280 PCIe 4.0 X4 NVMe",
+    "manufacturer": "Seagate",
+    "part_numbers": ["ZP1000GM30033"],
+    "series": "Beskar",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ZP1000GM30033",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

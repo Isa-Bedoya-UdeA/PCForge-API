@@ -1,0 +1,28 @@
+{
+  "opendb_id": "639ea7ab-1e4d-4b3b-a21a-6bae85b7f808",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Acer SA100 1.92 TB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Acer",
+    "part_numbers": ["BL.9BWWA.105"],
+    "series": "SA100",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BL.9BWWA.105",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

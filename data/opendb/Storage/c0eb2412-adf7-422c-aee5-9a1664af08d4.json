@@ -1,0 +1,28 @@
+{
+  "opendb_id": "c0eb2412-adf7-422c-aee5-9a1664af08d4",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "ADATA XPG GAMMIX S60 Blade 1TB M.2-2280 SSD PCIe 4.0 x4 NVMe",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AGAMMIXS60-1T-CS"],
+    "series": "XPG",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AGAMMIXS60-1T-CS",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

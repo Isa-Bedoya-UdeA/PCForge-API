@@ -1,0 +1,28 @@
+{
+  "opendb_id": "e2c8231e-777b-46b2-915d-190274c943ca",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "ADATA Ultimate SU650 480 GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "ADATA",
+    "part_numbers": ["ASU650SS-480GT-C"],
+    "series": "Ultimate",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ASU650SS-480GT-C",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

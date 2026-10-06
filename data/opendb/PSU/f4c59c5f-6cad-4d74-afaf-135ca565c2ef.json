@@ -1,0 +1,44 @@
+{
+  "opendb_id": "f4c59c5f-6cad-4d74-afaf-135ca565c2ef",
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 175,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "be quiet! Power Zone 650W Fully Modular 80+ Bronze Certified",
+    "manufacturer": "be quiet!",
+    "part_numbers": ["BN210", "BN610"],
+    "series": "Power",
+    "variant": "650W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BN210",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "BN610",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

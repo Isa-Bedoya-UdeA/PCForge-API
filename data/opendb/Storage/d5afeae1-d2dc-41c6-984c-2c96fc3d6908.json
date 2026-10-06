@@ -1,0 +1,28 @@
+{
+  "opendb_id": "d5afeae1-d2dc-41c6-984c-2c96fc3d6908",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "HP FX700 1TB SSD M.2-2280 PCIe 4.0 x4 NVMe",
+    "manufacturer": "HP",
+    "part_numbers": ["8U2N3AA"],
+    "series": "FX700",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "8U2N3AA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

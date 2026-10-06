@@ -1,0 +1,28 @@
+{
+  "opendb_id": "d5266b02-5554-45f1-a90f-4bc7cedcb5ea",
+  "capacity": 960,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Samsung 845DC EVO 960GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Samsung",
+    "part_numbers": ["MZ-7GE960EW"],
+    "series": "845DC",
+    "variant": "960GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MZ-7GE960EW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

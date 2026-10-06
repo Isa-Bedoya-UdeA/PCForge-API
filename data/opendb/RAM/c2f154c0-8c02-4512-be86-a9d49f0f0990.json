@@ -1,0 +1,40 @@
+{
+  "opendb_id": "c2f154c0-8c02-4512-be86-a9d49f0f0990",
+  "speed": 4000,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["GOLD"],
+  "lighting": [],
+  "cas_latency": 16,
+  "timings": "16-19-19-39",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "G.Skill Trident Z Royal Elite Gold DDR4-4000 CL16 32GB (2x16GB)",
+    "manufacturer": "G.SKILL",
+    "part_numbers": ["F4-4000C16D-32GTEG"],
+    "series": "Trident",
+    "variant": "4000 CL16"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "F4-4000C16D-32GTEG",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

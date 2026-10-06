@@ -1,0 +1,56 @@
+{
+  "opendb_id": "adbcdf75-3c20-4ccd-a199-d8ed7e864209",
+  "speed": 6000,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "cas_latency": 38,
+  "timings": "38-46-46-76",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP T-Force Vulcan Black DDR5-6000 CL38 32GB (2x16GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["FLBD532G6000HC38GDC01"],
+    "series": "T-Force Vulcan",
+    "variant": "6000 CL38",
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "FLBD532G6000HC38GDC01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16820985231",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16820985231",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

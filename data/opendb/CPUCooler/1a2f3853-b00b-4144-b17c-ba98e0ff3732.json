@@ -1,0 +1,48 @@
+{
+  "opendb_id": "1a2f3853-b00b-4144-b17c-ba98e0ff3732",
+  "min_fan_rpm": 500,
+  "max_fan_rpm": 2150,
+  "min_noise_level": 36.49,
+  "max_noise_level": null,
+  "color": ["BLACK"],
+  "lighting": [],
+  "height": null,
+  "cpu_sockets": [
+    "AM4",
+    "AM5",
+    "LGA 1150",
+    "LGA 1151",
+    "LGA 1155",
+    "LGA 1156",
+    "LGA 1200",
+    "LGA 1700",
+    "LGA 1851"
+  ],
+  "water_cooled": true,
+  "radiator_size": 360,
+  "fanless": false,
+  "fan_size": null,
+  "fan_quantity": null,
+  "metadata": {
+    "name": "Deepcool MYSTIQUE Water 360mm 72.45 CFM Black",
+    "manufacturer": "DeepCool",
+    "part_numbers": [
+      "R-LX750-BKDSNMP-G-1                                                    Mystique 360                                                    MYSTIQUE360-AMAZON"
+    ],
+    "series": "MYSTIQUE",
+    "variant": "Black",
+    "releaseYear": null
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "R-LX750-BKDSNMP-G-1                                                    Mystique 360                                                    MYSTIQUE360-AMAZON",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

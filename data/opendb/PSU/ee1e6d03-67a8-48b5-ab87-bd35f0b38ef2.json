@@ -1,0 +1,47 @@
+{
+  "opendb_id": "ee1e6d03-67a8-48b5-ab87-bd35f0b38ef2",
+  "wattage": 650,
+  "form_factor": "SFX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 100,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Thermalright TGFX650 Black SFX 650W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Thermalright",
+    "part_numbers": ["TGFX650"],
+    "series": "TGFX650",
+    "variant": "650W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "TGFX650",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "computer-orbit",
+        "channel": "uk",
+        "source_product_id": "TGFX650",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

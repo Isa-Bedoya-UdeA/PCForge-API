@@ -1,0 +1,39 @@
+{
+  "opendb_id": "245fddd8-ebb4-4e2a-9d17-860c6d5c3e7d",
+  "speed": 800,
+  "ram_type": "DDR2",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 4
+  },
+  "capacity": 8,
+  "color": ["GREY", "WHITE"],
+  "lighting": [],
+  "cas_latency": 6,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Mushkin Silverline Gray / Silver DDR2-800 CL6 8GB (2x4GB)",
+    "manufacturer": "Mushkin",
+    "part_numbers": ["996763"],
+    "series": "Silverline",
+    "variant": "800 CL6"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "996763",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "opendb_id": "1356237b-66fa-48d8-9e45-ce9819776b80",
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "capacity": 16,
+  "color": ["BLACK", "GREY"],
+  "lighting": [],
+  "cas_latency": 18,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Kingston HyperX Fury Black / Silver DDR4-3200 CL18 16GB (1x16GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["HX432C18FB", "16"],
+    "series": "HyperX",
+    "variant": "3200 CL18"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "16",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "HX432C18FB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

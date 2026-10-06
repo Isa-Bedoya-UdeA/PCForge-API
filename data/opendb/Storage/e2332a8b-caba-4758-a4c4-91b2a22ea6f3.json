@@ -1,0 +1,33 @@
+{
+  "opendb_id": "e2332a8b-caba-4758-a4c4-91b2a22ea6f3",
+  "capacity": 240,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston HyperX FURY RGB 240GB 2.5\" SSD SATA 6.0 Gb/s",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SHFR200", "240G"],
+    "series": "HyperX",
+    "variant": "240GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "240G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SHFR200",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

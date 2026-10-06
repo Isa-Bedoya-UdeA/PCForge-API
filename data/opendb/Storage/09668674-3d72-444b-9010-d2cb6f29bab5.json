@@ -1,0 +1,28 @@
+{
+  "opendb_id": "09668674-3d72-444b-9010-d2cb6f29bab5",
+  "capacity": 10000,
+  "storage_type": "HDD",
+  "form_factor": "3.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Toshiba N300 10TB 3.5\" HDD SATA",
+    "manufacturer": "Toshiba",
+    "part_numbers": ["HDWG11AUZSVA"],
+    "series": "N300",
+    "variant": "10000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "HDWG11AUZSVA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

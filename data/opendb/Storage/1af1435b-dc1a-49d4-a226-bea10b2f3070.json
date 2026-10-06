@@ -1,0 +1,33 @@
+{
+  "opendb_id": "1af1435b-dc1a-49d4-a226-bea10b2f3070",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Western Digital Black SN750 1TB M.2-2280 SSD PCIe 3.0 x4 NVMe",
+    "manufacturer": "Western Digital",
+    "part_numbers": ["WDS100T3XHC", "WDS100T3XHC-00SJG0"],
+    "series": "Black",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "WDS100T3XHC",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "WDS100T3XHC-00SJG0",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

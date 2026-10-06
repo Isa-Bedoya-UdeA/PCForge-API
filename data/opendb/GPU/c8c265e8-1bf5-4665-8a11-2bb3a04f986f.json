@@ -1,0 +1,220 @@
+{
+  "opendb_id": "c8c265e8-1bf5-4665-8a11-2bb3a04f986f",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 3050 8 GB",
+  "core_base_clock": 1552,
+  "core_boost_clock": 1777,
+  "memory": 8,
+  "memory_type": "GDDR6",
+  "effective_memory_clock": 14000,
+  "memory_bus": 128,
+  "tdp": 130,
+  "interface": "PCIe 4.0 x16",
+  "frame_sync": null,
+  "color": [],
+  "lighting": [],
+  "length": 247,
+  "case_expansion_slot_width": 2,
+  "total_slot_width": 2,
+  "cooling": "2 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 1,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 1,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "PNY XLR8 Gaming GeForce RTX 3050 8GB GDDR6 PCI Express 4.0 x16 Video Card VCG30508DFXPPB",
+    "manufacturer": "PNY",
+    "part_numbers": ["VCG30508DFXPPB"],
+    "series": "XLR8 Gaming",
+    "variant": null,
+    "releaseYear": null
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0751492660394",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "VCG30508DFXPPB",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "751492660394",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B09RFWPSWW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "bestbuy",
+        "channel": "us",
+        "source_product_id": "6510164",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "3336051",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "3336051",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16814133836",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16814133836",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "3336051",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "813416092",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

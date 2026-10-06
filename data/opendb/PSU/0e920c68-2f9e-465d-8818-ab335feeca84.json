@@ -1,0 +1,39 @@
+{
+  "opendb_id": "0e920c68-2f9e-465d-8818-ab335feeca84",
+  "wattage": 300,
+  "form_factor": "TFX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["GREY"],
+  "lighting": [],
+  "length": 175,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 3,
+    "molex_4_pin": 1,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "GameMax GT TFX 300W Non-Modular 80+ Bronze Certified",
+    "manufacturer": "GameMax",
+    "part_numbers": ["GT-300"],
+    "series": "GT",
+    "variant": "300W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GT-300",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

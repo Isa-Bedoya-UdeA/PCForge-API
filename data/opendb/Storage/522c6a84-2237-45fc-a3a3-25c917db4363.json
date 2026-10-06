@@ -1,0 +1,48 @@
+{
+  "opendb_id": "522c6a84-2237-45fc-a3a3-25c917db4363",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 x8",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Nextorage NN5PRO 1TB SSD M.2-2280 NVMe PCIe 4.0 X8",
+    "manufacturer": "Nextorage",
+    "part_numbers": ["NN5PRO-1TB1BH", "XNE SYM"],
+    "series": "NN5PRO",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "NN5PRO-1TB1BH",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "XNE SYM",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "0D9-0106-00013",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "0D9-0106-00013",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

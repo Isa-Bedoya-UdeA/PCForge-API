@@ -1,0 +1,44 @@
+{
+  "opendb_id": "eb625183-b751-4d03-a295-1c75fd7e73c9",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Silver",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 170,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 12,
+    "molex_4_pin": 8,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "XFX ProSeries ATX 850W Semi-Modular 80+ Silver Certified",
+    "manufacturer": "XFX",
+    "part_numbers": ["P1-850B-NLG9", "P1-850B-UKB9"],
+    "series": "ProSeries",
+    "variant": "850W Silver"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "P1-850B-NLG9",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "P1-850B-UKB9",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

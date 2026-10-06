@@ -1,0 +1,29 @@
+{
+  "opendb_id": "5ce1c413-8484-4399-b016-fba794a2d2d0",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "PCIe",
+  "interface": "M.2 PCIe 3.0 x4",
+  "cache": null,
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "OCZ RD400A 1TB SSD PCIe NVMe",
+    "manufacturer": "OCZ",
+    "part_numbers": ["RVD400-M22280-1T-A"],
+    "series": "RD400A",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RVD400-M22280-1T-A",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

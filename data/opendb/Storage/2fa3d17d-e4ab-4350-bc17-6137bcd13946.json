@@ -1,0 +1,28 @@
+{
+  "opendb_id": "2fa3d17d-e4ab-4350-bc17-6137bcd13946",
+  "capacity": 120,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "ADATA SU655 120 GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "ADATA",
+    "part_numbers": ["ASU655SS-120GT-C"],
+    "series": "SU655",
+    "variant": "120GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ASU655SS-120GT-C",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

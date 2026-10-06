@@ -1,0 +1,28 @@
+{
+  "opendb_id": "f9af1221-8b75-4159-8d9f-121a6ee54289",
+  "capacity": 256,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "SanDisk Ultra Plus 256GB SSD 2.5\" SATA",
+    "manufacturer": "SanDisk",
+    "part_numbers": ["SDSSDHP-256G-G25"],
+    "series": "Ultra",
+    "variant": "256GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SDSSDHP-256G-G25",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

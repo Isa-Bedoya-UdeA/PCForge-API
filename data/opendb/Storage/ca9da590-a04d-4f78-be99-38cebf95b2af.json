@@ -1,0 +1,28 @@
+{
+  "opendb_id": "ca9da590-a04d-4f78-be99-38cebf95b2af",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Patriot Ignite 480GB SSD 2.5\" SATA",
+    "manufacturer": "Patriot",
+    "part_numbers": ["PI480GS25SSDR"],
+    "series": "Ignite",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PI480GS25SSDR",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

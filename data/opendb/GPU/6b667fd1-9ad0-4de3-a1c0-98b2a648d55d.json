@@ -1,0 +1,57 @@
+{
+  "opendb_id": "6b667fd1-9ad0-4de3-a1c0-98b2a648d55d",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce GTX 1080",
+  "core_base_clock": 1721,
+  "core_boost_clock": 1860,
+  "memory": 8,
+  "memory_type": "GDDR5X",
+  "effective_memory_clock": 11100,
+  "memory_bus": 0,
+  "tdp": 180,
+  "interface": "PCIe x16",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 298,
+  "total_slot_width": 3,
+  "cooling": "3 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 1,
+    "pcie_8_pin": 1,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 0,
+    "hdmi_2_0": 2,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 2,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "Asus ROG Strix O8G 11GBPS GeForce GTX 1080 8GB GDDR5X Black",
+    "manufacturer": "ASUS",
+    "part_numbers": ["ROG-STRIX-GTX1080-O8G-11GBPS", "STRIX-GTX1080-O8G-11GBPS"],
+    "series": "GeForce GTX 1080",
+    "variant": "Asus"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ROG-STRIX-GTX1080-O8G-11GBPS",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "STRIX-GTX1080-O8G-11GBPS",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

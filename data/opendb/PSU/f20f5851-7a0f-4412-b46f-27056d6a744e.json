@@ -1,0 +1,54 @@
+{
+  "opendb_id": "f20f5851-7a0f-4412-b46f-27056d6a744e",
+  "wattage": 750,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 8,
+    "molex_4_pin": 7,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Dark Power Pro 11 750W 80 Plus Platinum Modular Power Supply",
+    "manufacturer": "be quiet!",
+    "part_numbers": ["CP-9020133-NA", "BN652"],
+    "series": "Dark Power Pro 11",
+    "variant": null,
+    "releaseYear": 2019
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0843591091282",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "BN652",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CP-9020133-NA",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "843591091282",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

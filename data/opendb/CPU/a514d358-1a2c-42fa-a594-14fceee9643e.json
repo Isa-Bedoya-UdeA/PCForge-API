@@ -1,0 +1,55 @@
+{
+  "opendb_id": "a514d358-1a2c-42fa-a594-14fceee9643e",
+  "series": "Intel Xeon E",
+  "microarchitecture": "Coffee Lake Refresh",
+  "coreFamily": "Coffee Lake Refresh",
+  "socket": "LGA 1151",
+  "cores": {
+    "total": 4,
+    "performance": 4,
+    "threads": 8
+  },
+  "clocks": {
+    "performance": {
+      "base": 4,
+      "boost": 4.9
+    }
+  },
+  "cache": {
+    "l2": 1,
+    "l3": 8
+  },
+  "specifications": {
+    "tdp": 83,
+    "integratedGraphics": {
+      "model": "Intel HD Graphics P630"
+    },
+    "eccSupport": true,
+    "includesCooler": false,
+    "packaging": "Boxed",
+    "lithography": "14 nm",
+    "simultaneousMultithreading": true,
+    "memory": {
+      "maxSupport": 128,
+      "types": []
+    }
+  },
+  "metadata": {
+    "name": "Intel Xeon E 2274G 4 GHz 4-Core LGA1151",
+    "manufacturer": "Intel",
+    "part_numbers": ["BX80684E2274G"],
+    "series": "Intel Xeon E"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BX80684E2274G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

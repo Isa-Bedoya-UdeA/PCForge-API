@@ -1,0 +1,39 @@
+{
+  "opendb_id": "1a451328-6aa4-4f78-93ee-f2eac9dec97a",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 10,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Sentey GSP1000-SM ATX 1000W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Sentey",
+    "part_numbers": ["GSP1000-SM"],
+    "series": "GSP1000-SM",
+    "variant": "1000W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GSP1000-SM",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

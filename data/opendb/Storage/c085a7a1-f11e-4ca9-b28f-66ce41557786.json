@@ -1,0 +1,33 @@
+{
+  "opendb_id": "c085a7a1-f11e-4ca9-b28f-66ce41557786",
+  "capacity": 960,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston HyperX FURY RGB 960GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SHFR200", "960G"],
+    "series": "HyperX",
+    "variant": "960GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "960G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SHFR200",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

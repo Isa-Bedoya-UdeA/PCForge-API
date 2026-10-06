@@ -1,0 +1,44 @@
+{
+  "opendb_id": "87f2a568-5c9f-4eed-93da-a9d509be3c24",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 10,
+    "molex_4_pin": 5,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Phanteks AMP Black 1000W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Phanteks",
+    "part_numbers": ["PH-P1000G", "PH-P1000G_BK"],
+    "series": "AMP",
+    "variant": "1000W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PH-P1000G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PH-P1000G_BK",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

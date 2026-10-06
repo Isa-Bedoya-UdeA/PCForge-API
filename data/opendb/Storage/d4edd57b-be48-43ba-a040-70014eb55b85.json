@@ -1,0 +1,28 @@
+{
+  "opendb_id": "d4edd57b-be48-43ba-a040-70014eb55b85",
+  "capacity": 240,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Toshiba Solid 240GB SSD 2.5\" SATA",
+    "manufacturer": "Toshiba",
+    "part_numbers": ["HDTS124XZSWA"],
+    "series": "Solid",
+    "variant": "240GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "HDTS124XZSWA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

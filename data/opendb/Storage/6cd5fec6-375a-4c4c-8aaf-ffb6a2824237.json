@@ -1,0 +1,28 @@
+{
+  "opendb_id": "6cd5fec6-375a-4c4c-8aaf-ffb6a2824237",
+  "capacity": 256,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Crucial M4 256GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Crucial",
+    "part_numbers": ["CT256M4SSD2CCA"],
+    "series": "M4",
+    "variant": "256GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CT256M4SSD2CCA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

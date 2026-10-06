@@ -1,0 +1,39 @@
+{
+  "opendb_id": "d2d17695-a225-42a5-a800-257eaa9a8837",
+  "speed": 5200,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "capacity": 8,
+  "color": ["RED"],
+  "lighting": [],
+  "cas_latency": 38,
+  "timings": "38-40-40-84",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP T-Force Vulcanα Red DDR5-5200 CL38 8GB (1x8GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["FLARD58G5200HC38C01"],
+    "series": "T-Force Vulcanα"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "FLARD58G5200HC38C01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

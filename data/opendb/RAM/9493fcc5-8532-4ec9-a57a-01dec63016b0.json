@@ -1,0 +1,39 @@
+{
+  "opendb_id": "9493fcc5-8532-4ec9-a57a-01dec63016b0",
+  "speed": 1600,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 4
+  },
+  "capacity": 4,
+  "color": ["GREEN"],
+  "lighting": [],
+  "cas_latency": 11,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "metadata": {
+    "name": "Patriot PSD34G160081 Green DDR3-1600 CL11 4GB (1x4GB)",
+    "manufacturer": "Patriot",
+    "part_numbers": ["PSD34G160081"],
+    "series": "PSD34G160081",
+    "variant": "1600 CL11"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PSD34G160081",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

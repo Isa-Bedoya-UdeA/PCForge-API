@@ -1,0 +1,28 @@
+{
+  "opendb_id": "ae4b2515-1a94-4d45-978b-10ec3250017b",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "PCIe",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Intel Optane 900P 480GB SSD PCIe PCIe NVMe",
+    "manufacturer": "Intel",
+    "part_numbers": ["SSDPED1D480GASX"],
+    "series": "Optane",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SSDPED1D480GASX",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "opendb_id": "ead3caf8-275e-41a8-a4a8-df71fb9fe0d6",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 4070 SUPER",
+  "core_count": 7168,
+  "core_base_clock": 1980,
+  "core_boost_clock": 2490,
+  "memory": 12,
+  "memory_type": "GDDR6X",
+  "effective_memory_clock": 0,
+  "memory_bus": 0,
+  "tdp": 220,
+  "interface": "PCIe x16",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 234,
+  "total_slot_width": 2,
+  "cooling": "2 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 1,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 1,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "Zotac GAMING Twin Edge OC GeForce RTX 4070 SUPER 12GB GDDR6X Black",
+    "manufacturer": "Zotac",
+    "part_numbers": ["ZT-D40720H-10M"],
+    "series": "GeForce RTX 4070 SUPER",
+    "variant": "Zotac"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "4895173628627",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "ZT-D40720H-10M",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "810012084543",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B0CST6165S",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "back-to-the-office",
+        "channel": "uk",
+        "source_product_id": "55306845585790",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "3098424",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "3098424",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16814500573R",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16814500573R",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "3098424",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "5350501679",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

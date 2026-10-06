@@ -1,0 +1,28 @@
+{
+  "opendb_id": "5815ce3c-e099-42cd-ac34-a0c2448a6bbb",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "AITC Kingsman KP800 1 TB M.2-2280 SSD PCIe 4.0 X4 NVMe",
+    "manufacturer": "AITC Kingsman",
+    "part_numbers": ["AIKP800M1TB228"],
+    "series": "KP800",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AIKP800M1TB228",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

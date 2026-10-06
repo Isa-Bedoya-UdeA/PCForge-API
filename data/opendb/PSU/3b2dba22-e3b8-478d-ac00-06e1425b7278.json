@@ -1,0 +1,176 @@
+{
+  "opendb_id": "3b2dba22-e3b8-478d-ac00-06e1425b7278",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": ["BLACK", "GREEN"],
+  "lighting": [],
+  "length": 150,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 9,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "EVGA SuperNOVA 850 P5 Black / Teal 850W Fully Modular 80+ Platinum",
+    "manufacturer": "EVGA",
+    "part_numbers": ["220-P5-0850-X1"],
+    "series": "SuperNOVA",
+    "variant": "850W Platinum"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0843368067847",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "220-P5-0850-X1",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "843368067847",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B09NB4PC6K",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16817438223",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16817438223",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "883600534",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

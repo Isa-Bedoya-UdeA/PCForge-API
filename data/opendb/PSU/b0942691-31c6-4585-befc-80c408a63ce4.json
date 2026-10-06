@@ -1,0 +1,95 @@
+{
+  "opendb_id": "b0942691-31c6-4585-befc-80c408a63ce4",
+  "wattage": 800,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Deepcool PK800D Black 800W Non-Modular 80+ Bronze Certified ATX",
+    "manufacturer": "DeepCool",
+    "part_numbers": [
+      "R-PK800D-FA0B-US",
+      "R-PK800D-FA0B-JP",
+      "R-PK800D-FA0B-AU",
+      "R-PK800D-FA0B-BP",
+      "R-PK800D-FA0B-EU",
+      "R-PK800D-FA0B-WO",
+      "R-PK800D-FA0B-BR",
+      "R-PK800D-FA0B-CN",
+      "R-PK800D-FA0B-UK",
+      "R-PK800D-FA0B-AR"
+    ],
+    "series": "PK800D",
+    "variant": "800W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "R-PK800D-FA0B-AR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PK800D-FA0B-AU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PK800D-FA0B-BP",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PK800D-FA0B-BR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PK800D-FA0B-CN",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PK800D-FA0B-EU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PK800D-FA0B-JP",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PK800D-FA0B-UK",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PK800D-FA0B-US",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "R-PK800D-FA0B-WO",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

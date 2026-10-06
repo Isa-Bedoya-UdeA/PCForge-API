@@ -1,0 +1,39 @@
+{
+  "opendb_id": "af82d566-8672-4884-bb62-658d5c943760",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 6,
+    "molex_4_pin": 8,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Thermaltake TR2 RX 850W Semi-Modular 80+ Bronze Certified",
+    "manufacturer": "Thermaltake",
+    "part_numbers": ["W0319"],
+    "series": "TR2",
+    "variant": "850W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "W0319",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

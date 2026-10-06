@@ -1,0 +1,39 @@
+{
+  "opendb_id": "030769dc-abc1-4c92-a8f2-8b91584124c9",
+  "wattage": 650,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 10,
+    "molex_4_pin": 5,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "SeaSonic S12G 650W Non-Modular 80+ Gold",
+    "manufacturer": "SeaSonic",
+    "part_numbers": ["S12G-650"],
+    "series": "S12G",
+    "variant": "650W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "S12G-650",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

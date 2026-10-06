@@ -1,0 +1,44 @@
+{
+  "opendb_id": "b42a8425-76e7-48eb-8d4f-b1010acbb182",
+  "wattage": 600,
+  "form_factor": "SFX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 100,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 4,
+    "molex_4_pin": 2,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Silverstone SX600-G SFX 600W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Silverstone",
+    "part_numbers": ["SST-SX600-G", "SX600-G"],
+    "series": "SX600-G",
+    "variant": "600W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SST-SX600-G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SX600-G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

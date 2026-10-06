@@ -1,0 +1,39 @@
+{
+  "opendb_id": "37a99f86-0b6c-46d5-a779-19309a725ac6",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 175,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 12,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "LEPA G1000-MB 1000W 80+ Gold Fully Modular",
+    "manufacturer": "LEPA",
+    "part_numbers": ["G1000-MB"],
+    "series": "G1000-MB",
+    "variant": "1000W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "G1000-MB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

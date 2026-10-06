@@ -1,0 +1,39 @@
+{
+  "opendb_id": "f413ab9f-a039-405b-94e6-910ec4bf650a",
+  "wattage": 550,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 5,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "LEPA B550-MB 550W Semi-Modular 80+ Bronze Certified",
+    "manufacturer": "LEPA",
+    "part_numbers": ["B550-MB"],
+    "series": "B550-MB",
+    "variant": "550W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "B550-MB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

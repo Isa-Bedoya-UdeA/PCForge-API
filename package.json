@@ -1,0 +1,49 @@
+{
+	"name": "api",
+	"version": "1.0.0",
+	"description": "Read-oriented REST API for PCForge component catalog",
+	"main": "dist/server.js",
+	"scripts": {
+		"dev": "tsx watch src/server.ts",
+		"build": "tsc -p tsconfig.build.json",
+		"start": "node dist/server.js",
+		"lint": "eslint src/ test/ scripts/",
+		"typecheck": "tsc --noEmit",
+		"test": "vitest run test/unit",
+		"test:integration": "vitest run test/integration",
+		"validate:data": "tsx scripts/validate-data.ts"
+	},
+	"engines": {
+		"node": ">=24.0.0 <25.0.0"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devEngines": {
+		"packageManager": {
+			"name": "pnpm",
+			"version": "^11.2.2",
+			"onFail": "download"
+		}
+	},
+	"type": "module",
+	"dependencies": {
+		"ajv": "^8.20.0",
+		"ajv-formats": "^3.0.1",
+		"cors": "^2.8.6",
+		"express": "^5.2.1",
+		"zod": "^4.6.5"
+	},
+	"devDependencies": {
+		"@types/cors": "^2.8.19",
+		"@types/express": "^5.0.6",
+		"@types/node": "^26.6.3",
+		"@types/supertest": "^7.2.1",
+		"eslint": "^10.11.0",
+		"supertest": "^7.3.0",
+		"tsx": "^4.23.15",
+		"typescript": "~6.0.3",
+		"typescript-eslint": "^8.71.0",
+		"vitest": "^5.0.3"
+	}
+}

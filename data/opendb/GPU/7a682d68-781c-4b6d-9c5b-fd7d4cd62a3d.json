@@ -1,0 +1,52 @@
+{
+  "opendb_id": "7a682d68-781c-4b6d-9c5b-fd7d4cd62a3d",
+  "chipset_manufacturer": "AMD",
+  "chipset": "Radeon RX 580",
+  "core_base_clock": 1257,
+  "core_boost_clock": 1360,
+  "memory": 8,
+  "memory_type": "GDDR5",
+  "effective_memory_clock": 8000,
+  "memory_bus": 0,
+  "tdp": 185,
+  "interface": "PCIe x16",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 237,
+  "total_slot_width": 2,
+  "cooling": "2 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 1,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 0,
+    "hdmi_2_0": 1,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "MSI Radeon RX 580 GT 8GB GDDR5 Black",
+    "manufacturer": "MSI",
+    "part_numbers": ["RX 580 8GT"],
+    "series": "Radeon RX 580",
+    "variant": "MSI"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RX 580 8GT",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

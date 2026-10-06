@@ -1,0 +1,28 @@
+{
+  "opendb_id": "33dbc0f1-1c52-4eb7-89ed-60bad7335cbb",
+  "capacity": 320,
+  "storage_type": "HDD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 3.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Western Digital Scorpio Blue 320GB 2.5\" HDD 5400RPM SATA",
+    "manufacturer": "Western Digital",
+    "part_numbers": ["WD3200LPVT"],
+    "series": "Scorpio",
+    "variant": "320GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "WD3200LPVT",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

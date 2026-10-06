@@ -1,0 +1,28 @@
+{
+  "opendb_id": "be382bf4-5bee-4d3e-9f28-823efe5886e1",
+  "capacity": 240,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "ADATA Premier SP550 240GB 2.5\" SSD SATA",
+    "manufacturer": "ADATA",
+    "part_numbers": ["ASP550SS3-240GM-C"],
+    "series": "Premier",
+    "variant": "240GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ASP550SS3-240GM-C",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

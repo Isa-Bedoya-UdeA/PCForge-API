@@ -1,0 +1,28 @@
+{
+  "opendb_id": "904339cc-4413-4884-b81c-4e21f09717f7",
+  "capacity": 128,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "KingSpec P3 128GB SSD 2.5\" SATA",
+    "manufacturer": "KingSpec",
+    "part_numbers": ["P3-128GB"],
+    "series": "P3",
+    "variant": "128GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "P3-128GB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

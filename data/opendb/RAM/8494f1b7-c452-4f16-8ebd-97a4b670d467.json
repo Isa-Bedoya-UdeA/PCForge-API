@@ -1,0 +1,56 @@
+{
+  "opendb_id": "8494f1b7-c452-4f16-8ebd-97a4b670d467",
+  "speed": 6000,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["WHITE"],
+  "lighting": [],
+  "cas_latency": 38,
+  "timings": "38-46-46-76",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP T-Create Expert White DDR5-6000 CL38 32GB (2x16GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["CTCWD532G6000HC38GDC01"],
+    "series": "T-Create Expert",
+    "variant": "6000 CL38",
+    "manufacturer_color": "White"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CTCWD532G6000HC38GDC01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16820985237",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16820985237",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "opendb_id": "b1d92d5b-8f8a-4471-8242-7fdf250b2dcc",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 150,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 14,
+    "molex_4_pin": 5,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "FSP Group Hydro G PRO ATX3.0(PCIe5.0) 850W Fully Modular 80+ Gold Certified",
+    "manufacturer": "FSP Group",
+    "part_numbers": ["HG2-850", "Gen5"],
+    "series": "Hydro",
+    "variant": "850W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "Gen5",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "HG2-850",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

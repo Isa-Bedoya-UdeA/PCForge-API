@@ -1,0 +1,28 @@
+{
+  "opendb_id": "b3ce2082-28fa-49ff-a519-04e6081639aa",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 SATA",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Patriot Ignite 480GB M.2 SSD SATA",
+    "manufacturer": "Patriot",
+    "part_numbers": ["PI480GSM280SSDR"],
+    "series": "Ignite",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PI480GSM280SSDR",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

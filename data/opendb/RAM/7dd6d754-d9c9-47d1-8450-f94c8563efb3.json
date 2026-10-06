@@ -1,0 +1,39 @@
+{
+  "opendb_id": "7dd6d754-d9c9-47d1-8450-f94c8563efb3",
+  "speed": 1600,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "capacity": 8,
+  "color": ["BLACK", "BLUE"],
+  "lighting": [],
+  "cas_latency": 9,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "PNY Anarchy Black / Blue DDR3-1600 CL9 8GB (1x8GB)",
+    "manufacturer": "PNY",
+    "part_numbers": ["MD8GSD316009AB"],
+    "series": "Anarchy",
+    "variant": "1600 CL9"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MD8GSD316009AB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

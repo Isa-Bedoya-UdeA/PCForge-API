@@ -1,0 +1,182 @@
+{
+  "opendb_id": "6b686667-6830-4d8d-b49b-d18b344b0969",
+  "min_fan_rpm": 2700,
+  "min_noise_level": 22.4,
+  "color": ["GREY"],
+  "lighting": ["None"],
+  "height": 36,
+  "cpu_sockets": [
+    "AM4",
+    "AM5",
+    "LGA 1150",
+    "LGA 1151",
+    "LGA 1155",
+    "LGA 1156",
+    "LGA 1200",
+    "LGA 1700",
+    "LGA 1851",
+    "LGA 1151v2"
+  ],
+  "water_cooled": false,
+  "fanless": false,
+  "fan_size": 92,
+  "fan_quantity": 1,
+  "metadata": {
+    "name": "Thermalright AXP90-X36 Air Cooler Gray",
+    "manufacturer": "Thermalright",
+    "part_numbers": [],
+    "series": "AXP90-X36",
+    "releaseYear": 2021,
+    "manufacturer_color": "Gray",
+    "last_manually_spec_verified_at": "2026-04-02T08:38:20.708Z"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.thermalright.com/product/axp90-x36/"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0742346951874",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "AXP90 X36",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "AXP90-X36",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "742346951874",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B097DTVFQQ",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "9SIA4REK321867",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "9SIA4REK321867",
+        "pricing_enabled": true,
+        "verified": true
+      }
+    ]
+  }
+}

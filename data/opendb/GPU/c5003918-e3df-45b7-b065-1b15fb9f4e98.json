@@ -1,0 +1,131 @@
+{
+  "opendb_id": "c5003918-e3df-45b7-b065-1b15fb9f4e98",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 4080",
+  "core_count": 9728,
+  "core_base_clock": 2595,
+  "core_boost_clock": 2625,
+  "memory": 16,
+  "memory_type": "GDDR6X",
+  "effective_memory_clock": 22400,
+  "memory_bus": 256,
+  "tdp": 320,
+  "interface": "PCIe 4.0 x16",
+  "frame_sync": null,
+  "color": [],
+  "lighting": [],
+  "length": 336,
+  "case_expansion_slot_width": 3,
+  "total_slot_width": 3,
+  "cooling": "3 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 1,
+    "pcie_12VHPWR": 1,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 1,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "MSI GeForce RTX 4080 16GB SUPRIM X",
+    "manufacturer": "MSI",
+    "part_numbers": [],
+    "series": "SUPRIM",
+    "variant": "X",
+    "releaseYear": 2022,
+    "manufacturer_color": "Silver"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0824142306338",
+        "region": "all"
+      },
+      {
+        "type": "ean",
+        "value": "4711377027205",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "G408016SX",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "RTX 4080 16GB SUPRIM X",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "V511-004R",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "824142306338",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "adorama",
+        "channel": "us",
+        "source_product_id": "MSIG408016SX",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "2816386",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "2816386",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16814137767",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16814137767",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "2816386",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "2658031207",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

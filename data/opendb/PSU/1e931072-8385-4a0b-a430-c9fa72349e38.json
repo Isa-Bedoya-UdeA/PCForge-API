@@ -1,0 +1,39 @@
+{
+  "opendb_id": "1e931072-8385-4a0b-a430-c9fa72349e38",
+  "wattage": 300,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 0,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "SeaSonic SSP-300ST ATX 300W Non-Modular 80+ Bronze Certified",
+    "manufacturer": "SeaSonic",
+    "part_numbers": ["SSP-300ST"],
+    "series": "SSP-300ST",
+    "variant": "300W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SSP-300ST",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

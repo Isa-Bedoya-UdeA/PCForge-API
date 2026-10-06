@@ -1,0 +1,40 @@
+{
+  "opendb_id": "17398728-2172-4953-89e5-1164863624b5",
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["GOLD"],
+  "lighting": [],
+  "cas_latency": 14,
+  "timings": "14-14-14-31",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP T-Force Night Hawk Legend RGB DDR4-3200 CL14 16GB (2x8GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["TF7D416G3200HC14ADC01"],
+    "series": "T-Force",
+    "variant": "3200 CL14"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "TF7D416G3200HC14ADC01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

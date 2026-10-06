@@ -1,0 +1,28 @@
+{
+  "opendb_id": "8c3f5604-1821-48cb-b405-58a91416bce4",
+  "capacity": 500,
+  "storage_type": "HDD",
+  "form_factor": "3.5\"",
+  "interface": "SATA 3.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Western Digital Caviar Green 500GB 3.5\" HDD 5400RPM SATA",
+    "manufacturer": "Western Digital",
+    "part_numbers": ["WD5000AADS"],
+    "series": "Caviar",
+    "variant": "500GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "WD5000AADS",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

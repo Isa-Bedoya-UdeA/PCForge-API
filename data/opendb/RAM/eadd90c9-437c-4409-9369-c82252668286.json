@@ -1,0 +1,39 @@
+{
+  "opendb_id": "eadd90c9-437c-4409-9369-c82252668286",
+  "speed": 2400,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["BLACK", "BLUE"],
+  "lighting": [],
+  "cas_latency": 15,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "PNY Anarchy Black / Blue DDR4-2400 CL15 16GB (2x8GB)",
+    "manufacturer": "PNY",
+    "part_numbers": ["MD16GK2D4240015AB"],
+    "series": "Anarchy",
+    "variant": "2400 CL15"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MD16GK2D4240015AB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "ff7d1787-2273-4b43-af9a-7b53cd333a60",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Western Digital easystore 480GB 2.5\" SSD SATA 6.0 Gb/s",
+    "manufacturer": "Western Digital",
+    "part_numbers": ["WDBAGU4800ANC-WRBB"],
+    "series": "easystore",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "WDBAGU4800ANC-WRBB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

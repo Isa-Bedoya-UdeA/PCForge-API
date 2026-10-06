@@ -1,0 +1,65 @@
+{
+  "opendb_id": "2c54dcdc-d67f-4e81-81a5-3e4f341938c9",
+  "chipset_manufacturer": "Intel",
+  "chipset": "Arc B580",
+  "core_count": 2560,
+  "core_base_clock": 2850,
+  "core_boost_clock": 2850,
+  "memory": 12,
+  "memory_type": "GDDR6",
+  "effective_memory_clock": 19000,
+  "memory_bus": 192,
+  "tdp": 220,
+  "interface": "PCIe 4.0 x8",
+  "frame_sync": null,
+  "color": [],
+  "lighting": [],
+  "length": 313,
+  "case_expansion_slot_width": 2,
+  "total_slot_width": 0,
+  "cooling": "3 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 2,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 1,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 3,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 0,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "GUNNIR Intel Arc B580 Photon 12G OC W",
+    "manufacturer": "GUNNIR",
+    "part_numbers": [],
+    "series": "Arc Battlemage",
+    "variant": "Photon",
+    "releaseYear": 2024
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "3GM-0001-00009",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "3GM-0001-00009",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

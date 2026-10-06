@@ -1,0 +1,39 @@
+{
+  "opendb_id": "1d906a57-63f0-483a-82a5-5dc734ae7b87",
+  "wattage": 500,
+  "form_factor": "ATX",
+  "efficiency_rating": null,
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": null,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 1,
+    "sata": 5,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "LEPA N ATX 500W Non-Modular",
+    "manufacturer": "LEPA",
+    "part_numbers": ["N500-SA"],
+    "series": "N",
+    "variant": "500W "
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "N500-SA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

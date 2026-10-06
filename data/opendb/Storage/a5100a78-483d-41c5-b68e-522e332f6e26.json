@@ -1,0 +1,48 @@
+{
+  "opendb_id": "a5100a78-483d-41c5-b68e-522e332f6e26",
+  "capacity": 120,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston HyperX 3K 120GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SH103S3B", "120G", "SH103S3B/120G"],
+    "series": "HyperX",
+    "variant": "120GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "7406172008814",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "120G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SH103S3B",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SH103S3B/120G",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "012304316572",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "2f9697e6-edcd-4701-a224-71ff825ffe15",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Apacer AS340 PANTHER 480GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Apacer",
+    "part_numbers": ["AP480GAS340G-1"],
+    "series": "AS340",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AP480GAS340G-1",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

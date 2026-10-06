@@ -1,0 +1,169 @@
+{
+  "opendb_id": "8c1d1403-912d-4928-a28d-4b4f93d5e23c",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 4070 Ti",
+  "core_count": 7680,
+  "core_base_clock": 2310,
+  "core_boost_clock": 2760,
+  "memory": 12,
+  "memory_type": "GDDR6X",
+  "effective_memory_clock": 0,
+  "memory_bus": 0,
+  "tdp": 285,
+  "interface": "PCIe x16",
+  "color": ["GREY"],
+  "lighting": [],
+  "length": 314,
+  "total_slot_width": 4,
+  "cooling": "3 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 1,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 1,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "Palit GameRock Classic OC GeForce RTX 4070 Ti 12GB GDDR6X Silver",
+    "manufacturer": "Palit",
+    "part_numbers": ["NED407TH19K9-1046G", "NED407T019K9-1046G"],
+    "series": "GeForce RTX 4070 Ti",
+    "variant": "Palit"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "4710562243529",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "NED407T019K9-1046G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "NED407TH19K9-1046G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B0BRT282K5",
+        "pricing_enabled": true,
+        "verified": true
+      }
+    ]
+  }
+}

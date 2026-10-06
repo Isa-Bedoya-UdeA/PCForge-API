@@ -1,0 +1,39 @@
+{
+  "opendb_id": "8061f19f-2dbd-43fc-a9e3-1df0358e12b4",
+  "wattage": 1500,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 220,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 10,
+    "sata": 16,
+    "molex_4_pin": 8,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Thermaltake Toughpower 1500W Semi-Modular 80+ Gold Certified",
+    "manufacturer": "Thermaltake",
+    "part_numbers": ["PS-TPD-1500MPCGUS-1"],
+    "series": "Toughpower",
+    "variant": "1500W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PS-TPD-1500MPCGUS-1",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "opendb_id": "e9d87f70-80d3-45d7-8253-351b6a240277",
+  "form_factor": "ATX Mid Tower",
+  "supported_motherboard_form_factors": ["ATX", "Mini-ITX", "Micro ATX", "EATX"],
+  "color": ["PURPLE", "BLACK", "BLUE"],
+  "lighting": ["None"],
+  "power_supply": "None",
+  "power_supply_included": false,
+  "supported_power_supply_form_factors": ["ATX"],
+  "side_panel": "Tempered Glass",
+  "has_transparent_side_panel": true,
+  "front_usb_ports": ["1 x USB 3.2 Gen 2x2 Type-C", "2 x USB 3.2 Gen 1 Type-C"],
+  "max_video_card_length": 430,
+  "max_cpu_cooler_height": 170,
+  "max_psu_length": 220,
+  "internal_3_5_bays": 1,
+  "internal_2_5_bays": 2,
+  "power_supply_shroud": true,
+  "expansion_slots": 7,
+  "riser_expansion_slots": 3,
+  "supports_rear_connecting_motherboard": true,
+  "dimensions_mm": {
+    "depth": 490,
+    "width": 239,
+    "height": 486
+  },
+  "volume": 56.683,
+  "weight": 26.4555,
+  "metadata": {
+    "name": "Corsair FRAME 4000D Vault Series Modular Mid-Tower PC Case – Galaxy",
+    "manufacturer": "Corsair",
+    "part_numbers": [],
+    "series": "FRAME 4000D",
+    "variant": "Vault Series",
+    "releaseYear": 2026,
+    "manufacturer_color": "Galaxy",
+    "last_manually_spec_verified_at": "2026-04-05T11:20:54.629Z"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.corsair.com/us/en/p/pc-cases/cc-9011342-ww/frame-4000d-vault-series-modular-mid-tower-pc-case-galaxy-cc-9011342-ww#tab-techspecs"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0840440417903",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CC-9011342-WW",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "840440417903",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B0GLHWBPBB",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "ca",
+        "source_product_id": "CC-9011342-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "de",
+        "source_product_id": "CC-9011342-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "es",
+        "source_product_id": "CC-9011342-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "fr",
+        "source_product_id": "CC-9011342-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "it",
+        "source_product_id": "CC-9011342-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "uk",
+        "source_product_id": "CC-9011342-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "us",
+        "source_product_id": "CC-9011342-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "mwave",
+        "channel": "au",
+        "source_product_id": "AC95646",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16811139263",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16811139263",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "19703311579",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

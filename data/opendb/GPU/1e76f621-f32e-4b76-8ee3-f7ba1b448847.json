@@ -1,0 +1,199 @@
+{
+  "opendb_id": "1e76f621-f32e-4b76-8ee3-f7ba1b448847",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "Quadro 410",
+  "core_count": 0,
+  "core_base_clock": 706,
+  "core_boost_clock": 706,
+  "memory": 0,
+  "memory_type": "DDR3",
+  "effective_memory_clock": 1782,
+  "memory_bus": 0,
+  "tdp": 38,
+  "interface": "PCIe x16",
+  "frame_sync": null,
+  "color": [],
+  "lighting": [],
+  "length": 176,
+  "case_expansion_slot_width": 1,
+  "total_slot_width": 1,
+  "cooling": "1 Fan",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 0,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 1,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "PNY VCQ410-PB Quadro 410 512 MB",
+    "manufacturer": "PNY",
+    "part_numbers": ["VCQ410-PB"],
+    "series": "Quadro 410",
+    "variant": "PNY"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0806293538073",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "VCQ410-PB",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "751492530574",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B008PK7J8I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "816607",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "816607",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "816607",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "21646488",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

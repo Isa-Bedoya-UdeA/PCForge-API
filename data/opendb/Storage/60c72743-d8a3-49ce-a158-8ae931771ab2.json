@@ -1,0 +1,33 @@
+{
+  "opendb_id": "60c72743-d8a3-49ce-a158-8ae931771ab2",
+  "capacity": 2000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston KC2500 2TB SSD M.2-2280 PCIe 3.0 X4 NVMe",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SKC2500M8", "2000G"],
+    "series": "KC2500",
+    "variant": "2000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "2000G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SKC2500M8",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

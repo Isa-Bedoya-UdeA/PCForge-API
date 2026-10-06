@@ -1,0 +1,28 @@
+{
+  "opendb_id": "d0d1f06f-f2f5-46ad-9851-2b9424f609c3",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Intel DC S3610 1.6TB SSD 2.5\" SATA",
+    "manufacturer": "Intel",
+    "part_numbers": ["SSDSC2BX016T4P"],
+    "series": "DC",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SSDSC2BX016T4P",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

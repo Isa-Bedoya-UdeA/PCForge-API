@@ -1,0 +1,47 @@
+{
+  "opendb_id": "7e825e3e-936d-4f60-aad7-486460cfc8dd",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "FSP Group VITA-1000GM Black 1000W Fully Modular 80+ Gold Certified",
+    "manufacturer": "FSP Group",
+    "part_numbers": ["VITA-1000GM"],
+    "series": "VITA-1000GM",
+    "variant": "1000W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "VITA-1000GM",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "mwave",
+        "channel": "au",
+        "source_product_id": "AC85320",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

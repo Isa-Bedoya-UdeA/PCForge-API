@@ -1,0 +1,33 @@
+{
+  "opendb_id": "ea6f20a8-0493-45b2-b66e-150c63ba6fc9",
+  "capacity": 240,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston HyperX 240GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SH100S3", "240G"],
+    "series": "HyperX",
+    "variant": "240GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "240G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SH100S3",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

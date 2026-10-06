@@ -1,0 +1,28 @@
+{
+  "opendb_id": "2bc56144-51d2-43ee-bff3-338a2305134b",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "HP EX900 1TB SSD M.2-2280 NVMe PCIe 3.0 X4",
+    "manufacturer": "HP",
+    "part_numbers": ["5XM46AA#ABC"],
+    "series": "EX900",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "5XM46AA#ABC",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

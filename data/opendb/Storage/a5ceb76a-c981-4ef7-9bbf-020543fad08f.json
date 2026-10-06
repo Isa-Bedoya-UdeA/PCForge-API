@@ -1,0 +1,28 @@
+{
+  "opendb_id": "a5ceb76a-c981-4ef7-9bbf-020543fad08f",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 4.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Sabrent Rocket 4 Plus G 1TB SSD M.2-2280 PCIe 4.0 x4 NVMe",
+    "manufacturer": "Sabrent",
+    "part_numbers": ["SB-RKTG-1TB"],
+    "series": "Rocket",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SB-RKTG-1TB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

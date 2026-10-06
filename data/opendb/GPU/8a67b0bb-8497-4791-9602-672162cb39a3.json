@@ -1,0 +1,66 @@
+{
+  "opendb_id": "8a67b0bb-8497-4791-9602-672162cb39a3",
+  "chipset_manufacturer": "Intel",
+  "chipset": "Arc B580",
+  "core_count": 2560,
+  "core_base_clock": 2670,
+  "core_boost_clock": 2850,
+  "memory": 12,
+  "memory_type": "GDDR6",
+  "effective_memory_clock": 0,
+  "memory_bus": 192,
+  "tdp": 190,
+  "interface": "PCIe x16",
+  "color": ["WHITE"],
+  "lighting": [],
+  "length": 241,
+  "total_slot_width": 3,
+  "cooling": "3 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 0,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 1,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 3,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 0,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "MAXSUN iCraft Arc B580 12GB GDDR6 White",
+    "manufacturer": "MAXSUN",
+    "part_numbers": ["MS-Arc B580 iCraft 12G", "Arc B580 iCraft 12G"],
+    "series": "Arc B580",
+    "variant": "MAXSUN"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "Arc B580 iCraft 12G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MS-Arc B580 iCraft 12G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "mwave",
+        "channel": "au",
+        "source_product_id": "AC81346",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

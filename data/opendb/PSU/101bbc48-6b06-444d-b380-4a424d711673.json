@@ -1,0 +1,39 @@
+{
+  "opendb_id": "101bbc48-6b06-444d-b380-4a424d711673",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": null,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 12,
+    "molex_4_pin": 9,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Sparkle GW-EPS1000DA ATX 1000W Semi-Modular 80+ Gold Certified",
+    "manufacturer": "Sparkle",
+    "part_numbers": ["GW-EPS1000DA"],
+    "series": "GW-EPS1000DA",
+    "variant": "1000W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GW-EPS1000DA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

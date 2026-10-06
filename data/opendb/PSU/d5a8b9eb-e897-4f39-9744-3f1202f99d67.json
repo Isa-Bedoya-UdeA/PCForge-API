@@ -1,0 +1,44 @@
+{
+  "opendb_id": "d5a8b9eb-e897-4f39-9744-3f1202f99d67",
+  "wattage": 550,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 5,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "be quiet! System Power 11 U 550W Non-Modular 80+ Bronze Certified",
+    "manufacturer": "be quiet!",
+    "part_numbers": ["BP010US", "BP010U2"],
+    "series": "System",
+    "variant": "550W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BP010U2",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "BP010US",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

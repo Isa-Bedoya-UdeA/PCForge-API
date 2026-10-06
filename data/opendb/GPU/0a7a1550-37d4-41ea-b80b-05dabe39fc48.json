@@ -1,0 +1,58 @@
+{
+  "opendb_id": "0a7a1550-37d4-41ea-b80b-05dabe39fc48",
+  "chipset_manufacturer": "NVIDIA",
+  "chipset": "GeForce RTX 3090",
+  "core_count": 10496,
+  "core_base_clock": 1395,
+  "core_boost_clock": 1725,
+  "memory": 24,
+  "memory_type": "GDDR6X",
+  "effective_memory_clock": 19500,
+  "memory_bus": 0,
+  "tdp": 350,
+  "interface": "PCIe x16",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 268,
+  "total_slot_width": 2,
+  "cooling": "1 Fan",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 2,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 0,
+    "hdmi_2_0": 1,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 3,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "Asus Turbo GeForce RTX 3090 24GB GDDR6X Black",
+    "manufacturer": "ASUS",
+    "part_numbers": ["TURBO-RTX3090-24G", "90YV0FK0-M0NB00"],
+    "series": "GeForce RTX 3090",
+    "variant": "Asus"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "90YV0FK0-M0NB00",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "TURBO-RTX3090-24G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

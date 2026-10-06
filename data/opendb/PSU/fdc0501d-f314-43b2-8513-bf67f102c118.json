@@ -1,0 +1,44 @@
+{
+  "opendb_id": "fdc0501d-f314-43b2-8513-bf67f102c118",
+  "wattage": 500,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 6,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "SeaSonic CORE GM 500W Semi-Modular 80+ Gold Certified",
+    "manufacturer": "SeaSonic",
+    "part_numbers": ["CORE-GM-500", "SSR-500LM"],
+    "series": "CORE",
+    "variant": "500W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CORE-GM-500",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SSR-500LM",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

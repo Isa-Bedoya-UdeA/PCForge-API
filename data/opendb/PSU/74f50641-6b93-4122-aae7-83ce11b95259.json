@@ -1,0 +1,43 @@
+{
+  "opendb_id": "74f50641-6b93-4122-aae7-83ce11b95259",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Titanium",
+  "cybernetics_efficiency_rating": "Cybenetics Titanium",
+  "cybernetics_noise_rating": "Cybenetics A++",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "length": 175,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 13
+  },
+  "metadata": {
+    "name": "be quiet! DARK POWER 14 850W",
+    "manufacturer": "be quiet!",
+    "part_numbers": ["BP019US"],
+    "series": "DARK POWER 14",
+    "variant": "850W",
+    "releaseYear": 2025,
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.bequiet.com/en/powersupply/5990"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BP019US",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "opendb_id": "95a15af6-7a28-4e7a-8c8d-eaf4f1970fcb",
+  "speed": 5200,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK"],
+  "lighting": [],
+  "cas_latency": 36,
+  "timings": "36-40-40-96",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Mushkin Redline Black DDR5-5200 CL36 32GB (2x16GB)",
+    "manufacturer": "Mushkin",
+    "part_numbers": ["MRF5U520DFFH16GX2", "MLA4C360GKKP16GX2"],
+    "series": "Redline",
+    "variant": "5200 CL36"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0846651030511",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MLA4C360GKKP16GX2",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MRF5U520DFFH16GX2",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "846651030511",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "9SIA1K6JHP9466",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "9SIA1K6JHP9466",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

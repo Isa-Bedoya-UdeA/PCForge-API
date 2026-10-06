@@ -1,0 +1,28 @@
+{
+  "opendb_id": "bb40fb98-1d0d-4bd0-9b1f-84e27e5575fe",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "TEAMGROUP L5 LITE 3D 1TB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["T253TD001T3C101"],
+    "series": "L5",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "T253TD001T3C101",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "opendb_id": "9d346c6b-ed96-434d-a52b-e3cf403cca48",
+  "capacity": 960,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "cache": null,
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Intel DC S3520 960GB SSD 2.5\" SATA",
+    "manufacturer": "Intel",
+    "part_numbers": ["SSDSC2BB960G7"],
+    "series": "DC",
+    "variant": "960GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SSDSC2BB960G7",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

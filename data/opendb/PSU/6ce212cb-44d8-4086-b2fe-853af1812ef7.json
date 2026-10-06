@@ -1,0 +1,39 @@
+{
+  "opendb_id": "6ce212cb-44d8-4086-b2fe-853af1812ef7",
+  "wattage": 800,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 3,
+    "sata": 10,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Xigmatek NRP-MC802 800W Fully Modular 80+ Bronze Certified",
+    "manufacturer": "Xigmatek",
+    "part_numbers": ["NRP-MC802"],
+    "series": "NRP-MC802",
+    "variant": "800W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "NRP-MC802",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

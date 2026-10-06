@@ -1,0 +1,39 @@
+{
+  "opendb_id": "a3a1e13e-67d6-4c3c-ac07-a43cd87b6b02",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 12,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Rosewill PHOTON-850 850W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Rosewill",
+    "part_numbers": ["PHOTON-850"],
+    "series": "PHOTON-850",
+    "variant": "850W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PHOTON-850",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

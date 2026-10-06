@@ -1,0 +1,28 @@
+{
+  "opendb_id": "b1d65699-dc62-4a31-b52a-ea1082406553",
+  "capacity": 500,
+  "storage_type": "SSD",
+  "form_factor": "3.5\"",
+  "interface": "SATA 3.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "OCZ Colossus 500GB SSD 3.5\" SATA 3.0 Gb/s",
+    "manufacturer": "OCZ",
+    "part_numbers": ["OCZSSD2-1CLS500G"],
+    "series": "Colossus",
+    "variant": "500GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "OCZSSD2-1CLS500G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "opendb_id": "cda2edd9-2c49-4eef-a952-837c3de3a3eb",
+  "speed": 6400,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK"],
+  "lighting": [],
+  "cas_latency": 52,
+  "timings": "52-52-52-103",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": false,
+  "rgb": false,
+  "metadata": {
+    "name": "Crucial CT2K16G64C52CU5 Black DDR5-6400 CL52 32GB (2x16GB)",
+    "manufacturer": "Crucial",
+    "part_numbers": ["CT2K16G64C52CU5"],
+    "series": "CT2K16G64C52CU5",
+    "variant": "6400 CL52"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CT2K16G64C52CU5",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

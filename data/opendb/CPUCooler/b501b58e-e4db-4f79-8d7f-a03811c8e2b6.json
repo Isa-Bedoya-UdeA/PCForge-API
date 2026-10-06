@@ -1,0 +1,43 @@
+{
+  "opendb_id": "b501b58e-e4db-4f79-8d7f-a03811c8e2b6",
+  "min_fan_rpm": 2400,
+  "min_noise_level": 36.25,
+  "color": ["WHITE"],
+  "lighting": ["None"],
+  "height": 158,
+  "cpu_sockets": [
+    "AM5",
+    "AM4",
+    "LGA 1851",
+    "LGA 1700",
+    "LGA 1151",
+    "LGA 1200",
+    "LGA 1150",
+    "LGA 1156",
+    "LGA 1155",
+    "LGA 2011",
+    "LGA 2066"
+  ],
+  "water_cooled": false,
+  "radiator_size": 0,
+  "fanless": false,
+  "fan_size": 140,
+  "fan_quantity": 2,
+  "metadata": {
+    "name": "Thermalright Frost Tower 140 White",
+    "manufacturer": "Thermalright",
+    "part_numbers": [],
+    "series": "Frost Tower 140",
+    "variant": "Default",
+    "releaseYear": 2026,
+    "manufacturer_color": "White"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.thermalright.com/product/frost-tower-140-white/"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

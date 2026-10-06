@@ -1,0 +1,34 @@
+{
+  "opendb_id": "b5b7d1ab-f0c4-4f44-a560-35b9b5339175",
+  "capacity": 4000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 5.0 x4",
+  "cache": null,
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Lexar Professional NM1090 PRO 4TB SSD M.2-2280 PCIe 5.0 X4 NVMe",
+    "manufacturer": "Lexar",
+    "part_numbers": ["LNM109P004T-RNNNU", "LNM109P004T-RNNNg"],
+    "series": "Professional",
+    "variant": "4000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "LNM109P004T-RNNNg",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "LNM109P004T-RNNNU",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

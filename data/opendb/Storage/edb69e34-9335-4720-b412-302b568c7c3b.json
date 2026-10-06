@@ -1,0 +1,28 @@
+{
+  "opendb_id": "edb69e34-9335-4720-b412-302b568c7c3b",
+  "capacity": 128,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "XPG GAMMIX S10 128GB M.2-2280 SSD PCIe 3.0 x4 NVMe",
+    "manufacturer": "XPG",
+    "part_numbers": ["ASX7000NPC-128GT-C"],
+    "series": "GAMMIX",
+    "variant": "128GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ASX7000NPC-128GT-C",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

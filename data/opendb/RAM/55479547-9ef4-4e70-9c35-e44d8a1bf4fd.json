@@ -1,0 +1,39 @@
+{
+  "opendb_id": "55479547-9ef4-4e70-9c35-e44d8a1bf4fd",
+  "speed": 800,
+  "ram_type": "DDR2",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 4,
+    "capacity_gb": 4
+  },
+  "capacity": 16,
+  "color": ["BLUE", "GREY"],
+  "lighting": [],
+  "cas_latency": 5,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "G.Skill F2-6400CL5Q-16GBPQ Blue / Silver DDR2-800 CL5 16GB (4x4GB)",
+    "manufacturer": "G.SKILL",
+    "part_numbers": ["F2-6400CL5Q-16GBPQ"],
+    "series": "F2-6400CL5Q-16GBPQ",
+    "variant": "800 CL5"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "F2-6400CL5Q-16GBPQ",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

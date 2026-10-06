@@ -1,0 +1,40 @@
+{
+  "opendb_id": "fca9487f-af23-404d-a0f4-77dbc9f6686f",
+  "speed": 6800,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK"],
+  "lighting": [],
+  "cas_latency": 36,
+  "timings": "36-44-44-86",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "GeIL ORION Black DDR5-6800 CL36 32GB (2x16GB)",
+    "manufacturer": "GeIL",
+    "part_numbers": ["GVG532GB6800C36ADC"],
+    "series": "ORION",
+    "variant": "6800 CL36"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GVG532GB6800C36ADC",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

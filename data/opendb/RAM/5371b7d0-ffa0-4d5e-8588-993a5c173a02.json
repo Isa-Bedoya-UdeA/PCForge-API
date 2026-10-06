@@ -1,0 +1,39 @@
+{
+  "opendb_id": "5371b7d0-ffa0-4d5e-8588-993a5c173a02",
+  "speed": 6000,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["WHITE"],
+  "lighting": [],
+  "cas_latency": 30,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP Xtreem White DDR5-6000 CL30 32GB (2x16GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["FFWD532G6000HC30DC01"],
+    "series": "Xtreem",
+    "variant": "6000 CL30"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "FFWD532G6000HC30DC01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

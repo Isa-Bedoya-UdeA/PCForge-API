@@ -1,0 +1,33 @@
+{
+  "opendb_id": "44cea230-d6c1-4041-b2e0-a648e0ddfbff",
+  "capacity": 240,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Western Digital Ultrastar 240GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Western Digital",
+    "part_numbers": ["0TS1654"],
+    "series": "Ultrastar",
+    "variant": "240GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "8592978159986",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "0TS1654",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

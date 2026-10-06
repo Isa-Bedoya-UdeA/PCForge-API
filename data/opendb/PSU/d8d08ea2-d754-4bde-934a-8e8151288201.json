@@ -1,0 +1,39 @@
+{
+  "opendb_id": "d8d08ea2-d754-4bde-934a-8e8151288201",
+  "wattage": 600,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Enermax Platimax D.F. Black 600W Fully Modular 80+ Platinum",
+    "manufacturer": "Enermax",
+    "part_numbers": ["EPF600AWT"],
+    "series": "Platimax",
+    "variant": "600W Platinum"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "EPF600AWT",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

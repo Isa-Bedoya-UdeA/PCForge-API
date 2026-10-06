@@ -1,0 +1,167 @@
+{
+  "opendb_id": "0e604c7e-7df2-4eee-bcd6-e3a713ed0b47",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 12,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "ADATA XPG CORE Reactor 850 Black 850W Fully Modular 80+ Gold",
+    "manufacturer": "ADATA",
+    "part_numbers": ["COREREACTOR850G-BKCUS", "75260042", "COREREACTOR850G-BKCEU"],
+    "series": "XPG",
+    "variant": "850W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "4710273773278",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "75260042",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTOR850G-BKCEU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTOR850G-BKCUS",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B07Z8J5JJ5",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "gigantec",
+        "channel": "es",
+        "source_product_id": "26784",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

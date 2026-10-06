@@ -1,0 +1,28 @@
+{
+  "opendb_id": "bd7b1cd6-bf00-4800-9910-72afb4b0689b",
+  "capacity": 2000,
+  "storage_type": "HDD",
+  "form_factor": "3.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Seagate BarraCuda Pro 2TB HDD 3.5\" SATA",
+    "manufacturer": "Seagate",
+    "part_numbers": ["ST2000DM009"],
+    "series": "BarraCuda",
+    "variant": "2000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ST2000DM009",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

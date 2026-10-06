@@ -1,0 +1,28 @@
+{
+  "opendb_id": "07f17a37-a49a-460e-84b1-3d26e7fdc0ca",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Intel 520 480GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Intel",
+    "part_numbers": ["SSDSC2CW480A310"],
+    "series": "520",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SSDSC2CW480A310",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

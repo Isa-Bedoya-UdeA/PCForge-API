@@ -1,0 +1,40 @@
+{
+  "opendb_id": "a2a65a36-af17-43d4-822f-c6110e7a4f06",
+  "form_factor": "ATX Mid Tower",
+  "supported_motherboard_form_factors": ["ATX", "Micro ATX", "Mini-ITX"],
+  "color": ["BLACK"],
+  "lighting": [],
+  "power_supply": "None",
+  "supported_power_supply_form_factors": [],
+  "side_panel": "Solid",
+  "has_transparent_side_panel": false,
+  "front_panel_usb": "USB 3.2 Gen 1 Type-A",
+  "front_usb_ports": [],
+  "max_video_card_length": 390,
+  "max_cpu_cooler_height": null,
+  "internal_3_5_bays": 3,
+  "internal_2_5_bays": 4,
+  "expansion_slots": 7,
+  "dimensions": "",
+  "volume": null,
+  "weight": null,
+  "metadata": {
+    "name": "Xigmatek Mach II ATX Mid Tower Black",
+    "manufacturer": "Xigmatek",
+    "part_numbers": ["mach ii"],
+    "series": "Mach",
+    "variant": ""
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "mach ii",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

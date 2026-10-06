@@ -1,0 +1,44 @@
+{
+  "opendb_id": "f4d42afb-937b-4c34-a1c3-b5d893ec28d2",
+  "speed": 3733,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["BLACK", "GREY"],
+  "lighting": [],
+  "cas_latency": 19,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "metadata": {
+    "name": "Kingston HyperX Fury RGB Black / Silver DDR4-3733 CL19 32GB (2x16GB)",
+    "manufacturer": "Kingston",
+    "part_numbers": ["HX437C19FB3AK2", "32"],
+    "series": "HyperX",
+    "variant": "3733 CL19"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "32",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "HX437C19FB3AK2",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

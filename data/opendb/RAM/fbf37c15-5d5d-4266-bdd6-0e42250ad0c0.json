@@ -1,0 +1,41 @@
+{
+  "opendb_id": "fbf37c15-5d5d-4266-bdd6-0e42250ad0c0",
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 16
+  },
+  "capacity": 16,
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "cas_latency": 36,
+  "timings": "36-36-36-76",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "TEAMGROUP T-Force Vulcan Black DDR5-5600 CL36 16GB (1x16GB)",
+    "manufacturer": "TEAMGROUP",
+    "part_numbers": ["FLBD516G5600HC36B01"],
+    "series": "T-Force Vulcan",
+    "variant": "5600 CL36",
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "FLBD516G5600HC36B01",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

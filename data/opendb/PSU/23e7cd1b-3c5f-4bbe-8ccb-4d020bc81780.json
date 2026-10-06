@@ -1,0 +1,44 @@
+{
+  "opendb_id": "23e7cd1b-3c5f-4bbe-8ccb-4d020bc81780",
+  "wattage": 850,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 4,
+    "sata": 8,
+    "molex_4_pin": 8,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Corsair TX850 V2 850W 80+ Bronze Certified ATX Non-Modular",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CMPSU-850TXV2", "CMPSU-850TXV2UK"],
+    "series": "TX850",
+    "variant": "850W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CMPSU-850TXV2",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CMPSU-850TXV2UK",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

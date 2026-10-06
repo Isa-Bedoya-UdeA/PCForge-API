@@ -1,0 +1,49 @@
+{
+  "opendb_id": "1543e1ce-8598-49b3-99d7-f28fc1d24e87",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 190,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 9,
+    "molex_4_pin": 6,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Antec High Current Pro 1000W 80+ Platinum Certified Fully Modular",
+    "manufacturer": "Antec",
+    "part_numbers": ["HCP-1000", "HCP-1000 PLATINUM", "0-761345-06249-7"],
+    "series": "High",
+    "variant": "1000W Platinum"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "0-761345-06249-7",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "HCP-1000",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "HCP-1000 PLATINUM",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

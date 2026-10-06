@@ -1,0 +1,53 @@
+{
+  "opendb_id": "e218d68c-ad2e-4c01-b99e-fcb3387c710c",
+  "chipset_manufacturer": "AMD",
+  "chipset": "Radeon RX 6700",
+  "core_count": 2304,
+  "core_base_clock": 1941,
+  "core_boost_clock": 2495,
+  "memory": 10,
+  "memory_type": "GDDR6",
+  "effective_memory_clock": 0,
+  "memory_bus": 0,
+  "tdp": 220,
+  "interface": "PCIe x16",
+  "color": ["BLACK", "GREY"],
+  "lighting": [],
+  "length": 242,
+  "total_slot_width": 2,
+  "cooling": "2 Fans",
+  "power_connectors": {
+    "pcie_6_pin": 0,
+    "pcie_8_pin": 1,
+    "pcie_12VHPWR": 0,
+    "pcie_12V_2x6": 0
+  },
+  "video_outputs": {
+    "hdmi_2_1": 1,
+    "hdmi_2_0": 0,
+    "displayport_2_1": 0,
+    "displayport_2_1a": 0,
+    "displayport_1_4a": 1,
+    "dvi_d": 0,
+    "vga": 0
+  },
+  "metadata": {
+    "name": "Sapphire 11321-03-20G Radeon RX 6700 10GB GDDR6 Black / Silver",
+    "manufacturer": "Sapphire",
+    "part_numbers": ["11321-03-20G"],
+    "series": "Radeon RX 6700",
+    "variant": "Sapphire"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "11321-03-20G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

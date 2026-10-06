@@ -1,0 +1,28 @@
+{
+  "opendb_id": "21951e2e-e322-40eb-aa18-4288b26def58",
+  "capacity": 256,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Orico Y-20 256GB SSD 2.5\" SATA",
+    "manufacturer": "Orico",
+    "part_numbers": ["Y20-256GB"],
+    "series": "Y-20",
+    "variant": "256GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "Y20-256GB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

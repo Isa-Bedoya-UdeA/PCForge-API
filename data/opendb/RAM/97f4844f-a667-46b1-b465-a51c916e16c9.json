@@ -1,0 +1,39 @@
+{
+  "opendb_id": "97f4844f-a667-46b1-b465-a51c916e16c9",
+  "speed": 2400,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 4
+  },
+  "capacity": 8,
+  "color": ["GREY"],
+  "lighting": [],
+  "cas_latency": 16,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Crucial Ballistix Sport LT DDR4-2400 CL16 8GB (2x4GB)",
+    "manufacturer": "Crucial",
+    "part_numbers": ["BLS2C4G4D240FSB"],
+    "series": "Ballistix",
+    "variant": "2400 CL16"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BLS2C4G4D240FSB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

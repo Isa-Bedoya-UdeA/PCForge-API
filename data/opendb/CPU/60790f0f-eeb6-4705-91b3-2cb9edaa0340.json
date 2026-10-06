@@ -1,0 +1,55 @@
+{
+  "opendb_id": "60790f0f-eeb6-4705-91b3-2cb9edaa0340",
+  "series": "Intel Core i7",
+  "microarchitecture": "Broadwell",
+  "coreFamily": "Broadwell-E",
+  "socket": "LGA 2011-3",
+  "cores": {
+    "total": 8,
+    "performance": 8,
+    "threads": 16
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.2,
+      "boost": 3.7
+    }
+  },
+  "cache": {
+    "l2": 2,
+    "l3": 20
+  },
+  "specifications": {
+    "tdp": 140,
+    "integratedGraphics": {
+      "model": "None"
+    },
+    "eccSupport": false,
+    "includesCooler": false,
+    "packaging": "Boxed",
+    "lithography": "14 nm",
+    "simultaneousMultithreading": true,
+    "memory": {
+      "maxSupport": 128,
+      "types": []
+    }
+  },
+  "metadata": {
+    "name": "Intel Core i7 6900K 3.2 GHz 8-Core LGA2011-3",
+    "manufacturer": "Intel",
+    "part_numbers": ["BXC80671I76900K"],
+    "series": "Intel Core i7"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BXC80671I76900K",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

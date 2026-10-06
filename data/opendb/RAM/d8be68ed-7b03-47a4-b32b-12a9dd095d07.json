@@ -1,0 +1,39 @@
+{
+  "opendb_id": "d8be68ed-7b03-47a4-b32b-12a9dd095d07",
+  "speed": 1866,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 32
+  },
+  "capacity": 64,
+  "color": ["BLUE", "GREY"],
+  "lighting": [],
+  "cas_latency": 11,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Crucial CT2K32G3ELSDQ4186D Blue / Silver DDR3-1866 CL11 64GB (2x32GB)",
+    "manufacturer": "Crucial",
+    "part_numbers": ["CT2K32G3ELSDQ4186D"],
+    "series": "CT2K32G3ELSDQ4186D",
+    "variant": "1866 CL11"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CT2K32G3ELSDQ4186D",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "opendb_id": "e7f4aad0-1659-4530-b825-1100fc8f2617",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "PNY CS1031 1TB SSD M.2 NVMe PCIe 3.0 X4",
+    "manufacturer": "PNY",
+    "part_numbers": ["M280CS1031-1TB-CL"],
+    "series": "CS1031",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "M280CS1031-1TB-CL",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "gigantec",
+        "channel": "es",
+        "source_product_id": "24168",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

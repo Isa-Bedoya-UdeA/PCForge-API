@@ -1,0 +1,33 @@
+{
+  "opendb_id": "c24dd74b-cac4-4c52-98b4-be4f630fa2d3",
+  "capacity": 240,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston UV500B 240GB SSD 2.5\" SATA",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SUV500B", "240G"],
+    "series": "UV500B",
+    "variant": "240GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "240G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SUV500B",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

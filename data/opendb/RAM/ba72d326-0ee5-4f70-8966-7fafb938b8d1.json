@@ -1,0 +1,40 @@
+{
+  "opendb_id": "ba72d326-0ee5-4f70-8966-7fafb938b8d1",
+  "speed": 2800,
+  "ram_type": "DDR3",
+  "profile_support": [],
+  "form_factor": "240-pin DIMM",
+  "modules": {
+    "quantity": 4,
+    "capacity_gb": 8
+  },
+  "capacity": 32,
+  "color": ["BLACK", "RED"],
+  "lighting": [],
+  "cas_latency": 12,
+  "timings": "12-14-14-36",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Corsair Vengeance Pro Black / Red DDR3-2800 CL12 32GB (4x8GB)",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CMY32GX3M4A2800C12R"],
+    "series": "Vengeance",
+    "variant": "2800 CL12"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CMY32GX3M4A2800C12R",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

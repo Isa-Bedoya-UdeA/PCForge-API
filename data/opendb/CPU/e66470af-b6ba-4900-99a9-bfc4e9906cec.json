@@ -1,0 +1,55 @@
+{
+  "opendb_id": "e66470af-b6ba-4900-99a9-bfc4e9906cec",
+  "series": "Intel Xeon E5",
+  "microarchitecture": "Broadwell",
+  "coreFamily": "Broadwell-EP",
+  "socket": "LGA 2011-3",
+  "cores": {
+    "total": 4,
+    "performance": 4,
+    "threads": 8
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.5,
+      "boost": 3.8
+    }
+  },
+  "cache": {
+    "l2": 1,
+    "l3": 10
+  },
+  "specifications": {
+    "tdp": 140,
+    "integratedGraphics": {
+      "model": "None"
+    },
+    "eccSupport": true,
+    "includesCooler": false,
+    "packaging": "Boxed",
+    "lithography": "14 nm",
+    "simultaneousMultithreading": true,
+    "memory": {
+      "maxSupport": 1536,
+      "types": []
+    }
+  },
+  "metadata": {
+    "name": "Intel Xeon E5 1620 V4 3.5 GHz 4-Core LGA2011-3",
+    "manufacturer": "Intel",
+    "part_numbers": ["BX80660E51620V4"],
+    "series": "Intel Xeon E5"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BX80660E51620V4",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

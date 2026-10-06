@@ -1,0 +1,44 @@
+{
+  "opendb_id": "f2b7eab7-0e5b-4d6e-847d-c02e9956e387",
+  "wattage": 400,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+",
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 139,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 4,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Silverstone Strider 400W Non-Modular 80+",
+    "manufacturer": "Silverstone",
+    "part_numbers": ["ST40F-ES", "SST-ST40F-ES"],
+    "series": "Strider",
+    "variant": "400W 80+"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SST-ST40F-ES",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "ST40F-ES",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

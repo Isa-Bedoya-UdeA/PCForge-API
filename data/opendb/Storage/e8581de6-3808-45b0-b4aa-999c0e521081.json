@@ -1,0 +1,28 @@
+{
+  "opendb_id": "e8581de6-3808-45b0-b4aa-999c0e521081",
+  "capacity": 2000,
+  "storage_type": "HDD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Samsung Spinpoint 2TB HDD 2.5\" SATA",
+    "manufacturer": "Samsung",
+    "part_numbers": ["ST2000LM003"],
+    "series": "Spinpoint",
+    "variant": "2000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ST2000LM003",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

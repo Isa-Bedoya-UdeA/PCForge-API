@@ -1,0 +1,44 @@
+{
+  "opendb_id": "a772eed2-8d76-4f39-987c-282458bd7eb0",
+  "wattage": 600,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Semi-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 3,
+    "sata": 8,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "EVGA 600 GQ Black 600W Semi-Modular 80+ Gold Certified",
+    "manufacturer": "EVGA",
+    "part_numbers": ["110-GQ-0600-V7", "110-GQ-0600-V4"],
+    "series": "600",
+    "variant": "600W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "110-GQ-0600-V4",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "110-GQ-0600-V7",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

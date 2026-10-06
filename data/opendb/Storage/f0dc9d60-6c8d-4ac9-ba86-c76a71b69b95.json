@@ -1,0 +1,28 @@
+{
+  "opendb_id": "f0dc9d60-6c8d-4ac9-ba86-c76a71b69b95",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x2",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Inland Professional 1TB SSD M.2-2280 PCIe 3.0 X2 NVMe",
+    "manufacturer": "Inland",
+    "part_numbers": ["1TB NVME PRO"],
+    "series": "Professional",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "1TB NVME PRO",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

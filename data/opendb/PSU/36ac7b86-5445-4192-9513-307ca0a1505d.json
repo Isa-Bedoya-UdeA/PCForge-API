@@ -1,0 +1,39 @@
+{
+  "opendb_id": "36ac7b86-5445-4192-9513-307ca0a1505d",
+  "wattage": 500,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Semi-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 157,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 1,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 2,
+    "sata": 5,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Rosewill Glacier 500M 500W 80+ Bronze Semi-Modular",
+    "manufacturer": "Rosewill",
+    "part_numbers": ["Glacier 500M"],
+    "series": "Glacier",
+    "variant": "500W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "Glacier 500M",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

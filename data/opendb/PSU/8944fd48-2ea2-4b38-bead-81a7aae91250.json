@@ -1,0 +1,219 @@
+{
+  "opendb_id": "8944fd48-2ea2-4b38-bead-81a7aae91250",
+  "wattage": 600,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Non-Modular",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 140,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 6,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cooler Master G600 Black ATX 600W Non-Modular 80+ Gold Certified",
+    "manufacturer": "Cooler Master",
+    "part_numbers": [
+      "MPW-6001-ACAAG-US",
+      "MPW-6001-ACAAG-WO",
+      "MPW-6001-ACAAG-UK",
+      "MPW-6001-ACAAG-TW",
+      "MPW-6001-ACAAG-BR",
+      "MPW-6001-ACAAG-AU",
+      "MPW-6001-ACAAG-IN",
+      "MPW-6001-ACAAG-ST",
+      "MPW-6001-ACAAG-EU",
+      "MPW-6001-ACAAG-JP",
+      "MPW-6001-ACAAG-KR"
+    ],
+    "series": "G600",
+    "variant": "600W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "4719512114100",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-AU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-BR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-EU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-IN",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-JP",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-KR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-ST",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-TW",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-UK",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-US",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MPW-6001-ACAAG-WO",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B09HZD4MXK",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "gigantec",
+        "channel": "es",
+        "source_product_id": "23888",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

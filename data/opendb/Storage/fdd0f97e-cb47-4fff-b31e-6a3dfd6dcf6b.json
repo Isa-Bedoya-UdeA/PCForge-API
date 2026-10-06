@@ -1,0 +1,28 @@
+{
+  "opendb_id": "fdd0f97e-cb47-4fff-b31e-6a3dfd6dcf6b",
+  "capacity": 480,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Neo Forza NFS01 480 GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Neo Forza",
+    "part_numbers": ["NFS011SA348-6007200"],
+    "series": "NFS01",
+    "variant": "480GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "NFS011SA348-6007200",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

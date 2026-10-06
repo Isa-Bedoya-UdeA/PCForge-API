@@ -1,0 +1,44 @@
+{
+  "opendb_id": "59d493f1-c403-4993-8e19-6335e8645599",
+  "wattage": 1200,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": ["WHITE", "GREY"],
+  "lighting": [],
+  "length": 180,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 7,
+    "sata": 12,
+    "molex_4_pin": 4,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Cougar POLAR X2 White / Gray 1200W Fully Modular 80+ Platinum Certified",
+    "manufacturer": "Cougar",
+    "part_numbers": ["CGR PRX2-1200", "31PX120001P01"],
+    "series": "POLAR",
+    "variant": "1200W Platinum"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "31PX120001P01",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CGR PRX2-1200",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

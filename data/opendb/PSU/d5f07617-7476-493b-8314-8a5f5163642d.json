@@ -1,0 +1,44 @@
+{
+  "opendb_id": "d5f07617-7476-493b-8314-8a5f5163642d",
+  "wattage": 1050,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Platinum",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 190,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 14,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "SeaSonic Platinum ATX 1050W Fully Modular 80+ Platinum Certified",
+    "manufacturer": "SeaSonic",
+    "part_numbers": ["SS-1050XP3", "PLATINUM-1050"],
+    "series": "Platinum",
+    "variant": "1050W Platinum"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PLATINUM-1050",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SS-1050XP3",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

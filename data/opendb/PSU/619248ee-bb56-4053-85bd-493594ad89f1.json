@@ -1,0 +1,68 @@
+{
+  "opendb_id": "619248ee-bb56-4053-85bd-493594ad89f1",
+  "wattage": 1200,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["BLACK"],
+  "lighting": [],
+  "length": 160,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 1,
+    "pcie_6_plus_2_pin": 8,
+    "sata": 9,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "ADATA XPG Core Reactor II Black ATX 1200W Fully Modular 80+ Gold Certified",
+    "manufacturer": "ADATA",
+    "part_numbers": [
+      "COREREACTORII1200G-BKCUS",
+      "COREREACTORII1200G-BKCAU",
+      "COREREACTORII1200G-BKCEU"
+    ],
+    "series": "XPG",
+    "variant": "1200W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "COREREACTORII1200G-BKCAU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTORII1200G-BKCEU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "COREREACTORII1200G-BKCUS",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16817478009",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16817478009",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "opendb_id": "78c9224b-2710-41b9-a746-92466cb6026c",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Toshiba XG6 1TB M.2 SSD NVMe",
+    "manufacturer": "Toshiba",
+    "part_numbers": ["KXG60ZNV1T02"],
+    "series": "XG6",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "KXG60ZNV1T02",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

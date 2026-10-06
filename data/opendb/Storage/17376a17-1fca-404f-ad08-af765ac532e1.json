@@ -1,0 +1,33 @@
+{
+  "opendb_id": "17376a17-1fca-404f-ad08-af765ac532e1",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "M.2-2280",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "Lexar NM610 1TB SSD M.2 PCIe 3.0 NVMe",
+    "manufacturer": "Lexar",
+    "part_numbers": ["LNM610-1TRBNA", "LNM610-1TRB"],
+    "series": "NM610",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "LNM610-1TRB",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "LNM610-1TRBNA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

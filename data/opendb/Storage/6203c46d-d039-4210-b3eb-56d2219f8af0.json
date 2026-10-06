@@ -1,0 +1,33 @@
+{
+  "opendb_id": "6203c46d-d039-4210-b3eb-56d2219f8af0",
+  "capacity": 256,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Samsung 830 256GB SSD 2.5\" SATA",
+    "manufacturer": "Samsung",
+    "part_numbers": ["MZ-7PC256D", "AM"],
+    "series": "830",
+    "variant": "256GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AM",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MZ-7PC256D",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

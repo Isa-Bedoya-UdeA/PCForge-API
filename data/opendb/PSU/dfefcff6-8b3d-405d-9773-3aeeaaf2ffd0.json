@@ -1,0 +1,49 @@
+{
+  "opendb_id": "dfefcff6-8b3d-405d-9773-3aeeaaf2ffd0",
+  "wattage": 1050,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": [],
+  "lighting": [],
+  "length": 190,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 6,
+    "sata": 14,
+    "molex_4_pin": 5,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "SeaSonic X ATX 1050W 80+ Gold Certified Fully Modular",
+    "manufacturer": "SeaSonic",
+    "part_numbers": ["X-1050", "PSUSEAX1050WMGD", "SS-1050XM2"],
+    "series": "X",
+    "variant": "1050W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PSUSEAX1050WMGD",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SS-1050XM2",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "X-1050",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

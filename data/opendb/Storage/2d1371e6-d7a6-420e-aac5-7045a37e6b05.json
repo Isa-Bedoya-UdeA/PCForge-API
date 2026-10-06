@@ -1,0 +1,28 @@
+{
+  "opendb_id": "2d1371e6-d7a6-420e-aac5-7045a37e6b05",
+  "capacity": 1000,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "TCSunBow X3 1TB 2.5\" SSD SATA",
+    "manufacturer": "TCSunBow",
+    "part_numbers": ["X3-1TB"],
+    "series": "X3",
+    "variant": "1000GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "X3-1TB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

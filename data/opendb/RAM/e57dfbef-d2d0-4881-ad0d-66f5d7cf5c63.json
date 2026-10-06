@@ -1,0 +1,40 @@
+{
+  "opendb_id": "e57dfbef-d2d0-4881-ad0d-66f5d7cf5c63",
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": ["RED"],
+  "lighting": [],
+  "cas_latency": 38,
+  "timings": "38-44-44-84",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "metadata": {
+    "name": "GeIL ORION V RGB AMD Red DDR5-5600 CL38 32GB (2x16GB)",
+    "manufacturer": "GeIL",
+    "part_numbers": ["GAVSR532GB5600C38ADC"],
+    "series": "ORION",
+    "variant": "5600 CL38"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GAVSR532GB5600C38ADC",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

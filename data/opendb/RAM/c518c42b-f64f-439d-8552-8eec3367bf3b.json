@@ -1,0 +1,39 @@
+{
+  "opendb_id": "c518c42b-f64f-439d-8552-8eec3367bf3b",
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["WHITE"],
+  "lighting": [],
+  "cas_latency": 18,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "ADATA XPG SPECTRIX D60G White DDR4-3600 CL18 16GB (2x8GB)",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX4U360038G18A-DW60"],
+    "series": "XPG",
+    "variant": "3600 CL18"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AX4U360038G18A-DW60",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

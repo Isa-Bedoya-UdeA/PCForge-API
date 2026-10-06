@@ -1,0 +1,175 @@
+{
+  "opendb_id": "1f9d390b-ebdc-4b74-a15f-d996dcfc388a",
+  "wattage": 600,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Bronze",
+  "modular": "Non-Modular",
+  "color": [],
+  "lighting": [],
+  "length": 139,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 0,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 0,
+    "sata": 6,
+    "molex_4_pin": 0,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Corsair CX600 600W Non-Modular 80+ Bronze",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CX600", "CP-9020048-UK", "CP-9020048-US", "CP-9020048-NA", "CP-9020048-EU"],
+    "series": "CX600",
+    "variant": "600W Bronze"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0071040193922",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CP-9020048-EU",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CP-9020048-NA",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CP-9020048-UK",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CP-9020048-US",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CX600",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "088021463295",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B0092ML0OC",
+        "pricing_enabled": true,
+        "verified": true
+      }
+    ]
+  }
+}

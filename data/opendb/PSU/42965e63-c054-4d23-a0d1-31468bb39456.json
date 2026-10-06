@@ -1,0 +1,44 @@
+{
+  "opendb_id": "42965e63-c054-4d23-a0d1-31468bb39456",
+  "wattage": 1000,
+  "form_factor": "ATX",
+  "efficiency_rating": "80+ Gold",
+  "modular": "Full",
+  "color": ["GREY", "BLACK"],
+  "lighting": [],
+  "length": 170,
+  "fanless": false,
+  "connectors": {
+    "atx_24_pin": 1,
+    "eps_8_pin": 2,
+    "pcie_12vhpwr": 0,
+    "pcie_6_plus_2_pin": 8,
+    "sata": 14,
+    "molex_4_pin": 3,
+    "floppy_4_pin": 0
+  },
+  "metadata": {
+    "name": "Phanteks Revolt Pro Silver / Black 1000W Fully Modular 80+ Gold Certified",
+    "manufacturer": "Phanteks",
+    "part_numbers": ["PH-P1000GC", "PH-P1000GC_EU"],
+    "series": "Revolt",
+    "variant": "1000W Gold"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PH-P1000GC",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "PH-P1000GC_EU",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "opendb_id": "a80cc90b-4fa6-478d-954c-94f0bd76988a",
+  "capacity": 120,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "Kingston SSDNow V300 120GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "Kingston",
+    "part_numbers": ["SV300S3N7A", "120G"],
+    "series": "SSDNow",
+    "variant": "120GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "120G",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SV300S3N7A",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

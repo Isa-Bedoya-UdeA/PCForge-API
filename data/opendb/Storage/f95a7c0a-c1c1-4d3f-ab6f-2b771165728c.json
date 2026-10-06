@@ -1,0 +1,28 @@
+{
+  "opendb_id": "f95a7c0a-c1c1-4d3f-ab6f-2b771165728c",
+  "capacity": 128,
+  "storage_type": "SSD",
+  "form_factor": "2.5\"",
+  "interface": "SATA 6.0 Gb/s",
+  "nvme": false,
+  "lighting": [],
+  "metadata": {
+    "name": "ADATA Premier Pro SP900 128GB SSD 2.5\" SATA 6.0 Gb/s",
+    "manufacturer": "ADATA",
+    "part_numbers": ["ASP900S3-128GM-C"],
+    "series": "Premier",
+    "variant": "128GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ASP900S3-128GM-C",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

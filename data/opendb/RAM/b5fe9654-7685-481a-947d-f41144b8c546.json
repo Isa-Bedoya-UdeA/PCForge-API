@@ -1,0 +1,31 @@
+{
+  "opendb_id": "b5fe9654-7685-481a-947d-f41144b8c546",
+  "speed": 3200,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 16
+  },
+  "capacity": 32,
+  "color": [],
+  "lighting": ["None"],
+  "cas_latency": 16,
+  "timings": "16-20-20-38",
+  "voltage": 1.35,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "height": 0,
+  "metadata": {
+    "name": "OLOy OWL 32GB (2 x 16GB) DDR4 3200 (PC4 25600) Desktop Memory Model ND4U1632161DJ0DA",
+    "manufacturer": "OLOy",
+    "part_numbers": [],
+    "series": "OWL",
+    "releaseYear": 0,
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {}
+}

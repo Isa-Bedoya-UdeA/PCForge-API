@@ -1,0 +1,39 @@
+{
+  "opendb_id": "97f3e397-7008-4ea8-a307-abefa54a6190",
+  "speed": 2400,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["BLACK", "WHITE"],
+  "lighting": [],
+  "cas_latency": 15,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "Mushkin Blackline Black / White DDR4-2400 CL15 16GB (2x8GB)",
+    "manufacturer": "Mushkin",
+    "part_numbers": ["997199F"],
+    "series": "Blackline",
+    "variant": "2400 CL15"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "997199F",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

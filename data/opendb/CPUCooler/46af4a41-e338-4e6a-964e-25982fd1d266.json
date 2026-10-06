@@ -1,0 +1,177 @@
+{
+  "opendb_id": "46af4a41-e338-4e6a-964e-25982fd1d266",
+  "weight": 810,
+  "min_fan_rpm": 1400,
+  "min_noise_level": 11.9,
+  "max_noise_level": 26.7,
+  "color": ["BLACK"],
+  "lighting": ["None"],
+  "height": 131,
+  "cpu_sockets": [
+    "AM4",
+    "LGA 775",
+    "LGA 1200",
+    "LGA 1150",
+    "LGA 1151",
+    "LGA 1155",
+    "LGA 1156",
+    "LGA 1366",
+    "LGA 2011-3",
+    "LGA 2011",
+    "LGA 2066",
+    "AM2+",
+    "AM3+",
+    "FM1",
+    "FM2+"
+  ],
+  "water_cooled": false,
+  "fanless": false,
+  "fan_size": 135,
+  "fan_quantity": 2,
+  "metadata": {
+    "name": "be quiet! Dark Rock TF",
+    "manufacturer": "be quiet!",
+    "part_numbers": ["BK020"],
+    "series": "Dark Rock TF",
+    "variant": "TF",
+    "releaseYear": 2015,
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.bequiet.com/en/cpucooler/572"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0745883684724",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "BK020",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "745883684724",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B00XJMQDUM",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "back-to-the-office",
+        "channel": "uk",
+        "source_product_id": "56014114292094",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

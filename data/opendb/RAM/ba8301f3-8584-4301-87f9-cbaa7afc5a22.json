@@ -1,0 +1,40 @@
+{
+  "opendb_id": "ba8301f3-8584-4301-87f9-cbaa7afc5a22",
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 4,
+    "capacity_gb": 8
+  },
+  "capacity": 32,
+  "color": [],
+  "lighting": [],
+  "cas_latency": 14,
+  "timings": "14-14-14-34",
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "metadata": {
+    "name": "G.Skill Trident Z RGB DDR4-3600 CL14 32GB (4x8GB)",
+    "manufacturer": "G.SKILL",
+    "part_numbers": [],
+    "series": "Trident Z RGB",
+    "manufacturer_color": "Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "F4-3600C14Q-32GTZRA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

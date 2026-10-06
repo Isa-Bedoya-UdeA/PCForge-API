@@ -1,0 +1,55 @@
+{
+  "opendb_id": "1eed580c-0c1e-44dd-9cc6-74c749947ba1",
+  "series": "AMD A6",
+  "microarchitecture": "Steamroller",
+  "coreFamily": "Kaveri",
+  "socket": "FM2+",
+  "cores": {
+    "total": 2,
+    "performance": 2,
+    "threads": 2
+  },
+  "clocks": {
+    "performance": {
+      "base": 3.5,
+      "boost": 3.9
+    }
+  },
+  "cache": {
+    "l2": 1,
+    "l3": 0
+  },
+  "specifications": {
+    "tdp": 65,
+    "integratedGraphics": {
+      "model": "AMD Radeon R5 (on-die)"
+    },
+    "eccSupport": false,
+    "includesCooler": false,
+    "packaging": "OEM/Tray",
+    "lithography": "28 nm",
+    "simultaneousMultithreading": false,
+    "memory": {
+      "maxSupport": 0,
+      "types": []
+    }
+  },
+  "metadata": {
+    "name": "AMD Pro A6 7400B 3.5 GHz 2-Core FM2+ OEM/Tray",
+    "manufacturer": "AMD",
+    "part_numbers": ["AD740BYBI23JA"],
+    "series": "AMD A6"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AD740BYBI23JA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

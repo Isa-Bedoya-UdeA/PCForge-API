@@ -1,0 +1,28 @@
+{
+  "opendb_id": "1b0d638b-76f0-4978-99d3-896b6b80be89",
+  "capacity": 230,
+  "storage_type": "SSD",
+  "form_factor": "PCIe",
+  "interface": "M.2 PCIe 3.0 x4",
+  "nvme": true,
+  "lighting": [],
+  "metadata": {
+    "name": "OCZ RevoDrive 230GB SSD PCIe PCIe x4 NVMe",
+    "manufacturer": "OCZ",
+    "part_numbers": ["OCZSSDPX-1RVD0230"],
+    "series": "RevoDrive",
+    "variant": "230GB"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "OCZSSDPX-1RVD0230",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

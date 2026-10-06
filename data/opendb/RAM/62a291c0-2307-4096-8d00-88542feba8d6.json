@@ -1,0 +1,39 @@
+{
+  "opendb_id": "62a291c0-2307-4096-8d00-88542feba8d6",
+  "speed": 3600,
+  "ram_type": "DDR4",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 1,
+    "capacity_gb": 8
+  },
+  "capacity": 8,
+  "color": ["WHITE"],
+  "lighting": [],
+  "cas_latency": 18,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": true,
+  "metadata": {
+    "name": "ADATA XPG SPECTRIX D35G RGB White DDR4-3600 CL18 8GB (1x8GB)",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX4U36008G18I-SWHD35G"],
+    "series": "XPG",
+    "variant": "3600 CL18"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AX4U36008G18I-SWHD35G",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}
