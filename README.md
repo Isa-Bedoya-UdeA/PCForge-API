@@ -11,7 +11,7 @@
 
 | Field | Value |
 | --- | --- |
-| Status | In Development |
+| Status | Completed |
 | Platform | Node.js local service |
 | Language | TypeScript |
 | UI | REST / JSON |
@@ -137,17 +137,53 @@ The local MVP does not require a database, credentials, or a deployed service. T
 # Keep any local-only configuration in .env; commit names and safe examples only.
 ```
 
-### Run the Application
+### Install Dependencies
 
 ```bash
 pnpm install
 ```
 
-The current scaffold does not yet define a development script, and `src/server.ts` is empty. Add the API bootstrap and a `dev` package script before attempting to start the service.
+### Run the Application
+
+To run the API in development mode with hot-reloading:
+
+```bash
+pnpm dev
+```
+
+The server will load the local catalog and start listening:
+
+```text
+[pcforge-api] Loading component catalog snapshot...
+[pcforge-api] Loaded 26240 components across 8 categories.
+[pcforge-api] Server running at http://0.0.0.0:3000
+[pcforge-api] Environment: development
+```
+
+To build and run the compiled production service:
+
+```bash
+pnpm build
+pnpm start
+```
 
 ### Run Tests
 
-The package currently contains only a placeholder `test` script; unit, integration, and snapshot-validation commands are not implemented yet.
+Execute unit tests and route integration tests:
+
+```bash
+# Run unit tests
+pnpm test
+
+# Run API integration tests
+pnpm run test:integration
+
+# Run TypeScript typecheck
+pnpm run typecheck
+
+# Validate OpenDB catalog schemas
+pnpm run validate:data
+```
 
 ## Documentation
 
